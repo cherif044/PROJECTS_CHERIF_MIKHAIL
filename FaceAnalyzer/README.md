@@ -1,5 +1,7 @@
 Face Detection and Analysis
+
 This project detects faces in images or webcam streams, preprocesses them, and analyzes attributes (age, gender, emotion, race) using DeepFace. It supports two modes: analyzing an uploaded image or real-time webcam face tracking.
+
 Features
 
 Detects faces using OpenCV's Haar Cascade.
@@ -8,7 +10,7 @@ Analyzes faces with DeepFace for age, gender, emotion, and race.
 Displays results with Matplotlib (images) and OpenCV (webcam).
 Modes: Image upload or webcam (manual capture with 's', auto-capture every 15s).
 
-Project Structure
+Project Structure:
 face_detection_project/
 ├── main.py                # Program entry point
 ├── face_preprocessing.py  # Face preprocessing
