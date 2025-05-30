@@ -1,0 +1,64 @@
+FPGA Pong Game
+This project implements a classic Pong game in Verilog, designed for an FPGA using the Vivado design suite. The game is controlled and played directly on the FPGA board, utilizing its inputs (e.g., buttons or switches) and outputs (e.g., VGA display).
+Project Overview
+The Pong game features two paddles and a ball, with players controlling paddle movement to hit the ball and score points. The implementation leverages FPGA hardware for real-time game logic, VGA output, and input handling.
+Files
+
+BCD.v: Handles Binary-Coded Decimal conversion for displaying scores.
+debouncer.v: Ensures clean input signals by debouncing FPGA button/switch inputs.
+pixels.v: Manages pixel-level rendering of game objects (ball, paddles).
+topmodule.v: Top-level module integrating all components (game logic, VGA, inputs).
+vga_sync.v: Generates VGA synchronization signals (HSYNC, VSYNC) for display.
+
+General Approach
+
+Game Logic:
+topmodule.v coordinates ball and paddle movement, collision detection, and scoring.
+pixels.v renders game objects to the screen.
+
+
+VGA Output:
+vga_sync.v produces timing signals for a 640x480 VGA display.
+Pixel data is synchronized with game logic for real-time visuals.
+
+
+Input Handling:
+debouncer.v processes FPGA inputs to avoid noise.
+Inputs control paddle movement in topmodule.v.
+
+
+Scoring:
+BCD.v converts score values to decimal for display.
+
+
+
+Requirements
+
+Software: Vivado Design Suite (tested on version 2023.1 or later).
+Hardware: FPGA board with VGA output and input peripherals.
+Dependencies: None beyond Vivado and FPGA board libraries.
+
+Setup Instructions
+
+Clone this repository.
+Open Vivado and create a project for your FPGA board.
+Add all .v files to the project.
+Include a constraints.xdc file with pin assignments for your board.
+Synthesize and implement the design.
+Program the FPGA board.
+Connect a VGA monitor and input devices as per the constraints.
+Power on to play.
+
+Controls
+
+Player 1: Use designated buttons/switches (check constraints.xdc) for the left paddle.
+Player 2: Use designated buttons/switches for the right paddle.
+
+Notes
+
+Match the FPGA clock frequency with the code’s timing.
+Adjust constraints.xdc for your board’s pinout.
+Game runs at 60 FPS for smooth play.
+
+License
+MIT License. See LICENSE for details.
