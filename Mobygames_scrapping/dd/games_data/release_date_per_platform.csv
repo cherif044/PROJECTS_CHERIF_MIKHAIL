@@ -1,0 +1,1377 @@
+moby_id,game_name,release_platform,release_date
+150689,Baldur's Gate III,Windows,2020-10-06
+150689,Baldur's Gate III,Macintosh,2020-10-06
+150689,Baldur's Gate III,Stadia,2020-10-06
+150689,Baldur's Gate III,PlayStation 5,2020-10-06
+150689,Baldur's Gate III,Xbox Series,2020-10-06
+203119,The Legend of Zelda: Tears of the Kingdom,Nintendo Switch,2023-05-12
+203119,The Legend of Zelda: Tears of the Kingdom,Nintendo Switch 2,2023-05-12
+230088,Astro Bot,PlayStation 5,2024-09-05
+199460,Metroid Prime: Remastered,Nintendo Switch,2023-02-08
+223472,Hades II,Windows,2024-05-06
+223472,Hades II,Macintosh,2024-05-06
+223472,Hades II,Nintendo Switch,2024-05-06
+223472,Hades II,Nintendo Switch 2,2024-05-06
+174989,Elden Ring,Windows,2022-02-25
+174989,Elden Ring,PlayStation 4,2022-02-25
+174989,Elden Ring,Xbox One,2022-02-25
+174989,Elden Ring,PlayStation 5,2022-02-25
+174989,Elden Ring,Xbox Series,2022-02-25
+231733,Metaphor: ReFantazio,Windows,2024-10-11
+231733,Metaphor: ReFantazio,Windows Apps,2024-10-11
+231733,Metaphor: ReFantazio,PlayStation 4,2024-10-11
+231733,Metaphor: ReFantazio,PlayStation 5,2024-10-11
+231733,Metaphor: ReFantazio,Xbox Series,2024-10-11
+241065,Clair Obscur: Expedition 33,Windows,2025-04-24
+241065,Clair Obscur: Expedition 33,Windows Apps,2025-04-24
+241065,Clair Obscur: Expedition 33,PlayStation 5,2025-04-24
+241065,Clair Obscur: Expedition 33,Xbox Series,2025-04-24
+241065,Clair Obscur: Expedition 33,Xbox Cloud Gaming,2025-04-24
+195074,God of War: Ragnarök,PlayStation 4,2022-11-09
+195074,God of War: Ragnarök,PlayStation 5,2022-11-09
+200900,Resident Evil 4,Windows,2023-03-24
+200900,Resident Evil 4,Macintosh,2023-03-24
+200900,Resident Evil 4,iPhone,2023-03-24
+200900,Resident Evil 4,iPad,2023-03-24
+200900,Resident Evil 4,PlayStation 4,2023-03-24
+200900,Resident Evil 4,PlayStation 5,2023-03-24
+200900,Resident Evil 4,Xbox Series,2023-03-24
+246839,Hollow Knight: Silksong,Linux,2025-09-04
+246839,Hollow Knight: Silksong,Windows,2025-09-04
+246839,Hollow Knight: Silksong,Macintosh,2025-09-04
+246839,Hollow Knight: Silksong,Windows Apps,2025-09-04
+246839,Hollow Knight: Silksong,PlayStation 4,2025-09-04
+246839,Hollow Knight: Silksong,Xbox One,2025-09-04
+246839,Hollow Knight: Silksong,Nintendo Switch,2025-09-04
+246839,Hollow Knight: Silksong,PlayStation 5,2025-09-04
+246839,Hollow Knight: Silksong,Xbox Series,2025-09-04
+246839,Hollow Knight: Silksong,Xbox Cloud Gaming,2025-09-04
+246839,Hollow Knight: Silksong,Nintendo Switch 2,2025-09-04
+238381,Split Fiction,Windows,2025-03-06
+238381,Split Fiction,PlayStation 5,2025-03-06
+238381,Split Fiction,Xbox Series,2025-03-06
+238381,Split Fiction,Nintendo Switch 2,2025-03-06
+217980,Balatro,Windows,2024-02-20
+217980,Balatro,Macintosh,2024-02-20
+217980,Balatro,iPhone,2024-02-20
+217980,Balatro,Android,2024-02-20
+217980,Balatro,iPad,2024-02-20
+217980,Balatro,PlayStation 4,2024-02-20
+217980,Balatro,Xbox One,2024-02-20
+217980,Balatro,Nintendo Switch,2024-02-20
+217980,Balatro,PlayStation 5,2024-02-20
+217980,Balatro,Xbox Series,2024-02-20
+216560,Like a Dragon: Infinite Wealth,Windows,2024-01-25
+216560,Like a Dragon: Infinite Wealth,Windows Apps,2024-01-25
+216560,Like a Dragon: Infinite Wealth,PlayStation 4,2024-01-25
+216560,Like a Dragon: Infinite Wealth,Xbox One,2024-01-25
+216560,Like a Dragon: Infinite Wealth,PlayStation 5,2024-01-25
+216560,Like a Dragon: Infinite Wealth,Xbox Series,2024-01-25
+210462,Super Mario Bros. Wonder,Nintendo Switch,2023-10-20
+203910,Street Fighter 6,Windows,2023-06-02
+203910,Street Fighter 6,PlayStation 4,2023-06-02
+203910,Street Fighter 6,PlayStation 5,2023-06-02
+203910,Street Fighter 6,Xbox Series,2023-06-02
+218917,Final Fantasy VII: Rebirth,Windows,2024-02-29
+218917,Final Fantasy VII: Rebirth,PlayStation 5,2024-02-29
+170577,Tsukihime: A piece of blue glass moon,PlayStation 4,2021-08-26
+170577,Tsukihime: A piece of blue glass moon,Nintendo Switch,2021-08-26
+245083,Donkey Kong Bananza,Nintendo Switch 2,2025-07-17
+193990,Persona 5: Royal,Windows,2022-10-21
+193990,Persona 5: Royal,Windows Apps,2022-10-21
+193990,Persona 5: Royal,Xbox One,2022-10-21
+193990,Persona 5: Royal,Nintendo Switch,2022-10-21
+193990,Persona 5: Royal,PlayStation 5,2022-10-21
+193990,Persona 5: Royal,Xbox Series,2022-10-21
+240176,Blue Prince,Windows,2025-04-10
+240176,Blue Prince,Windows Apps,2025-04-10
+240176,Blue Prince,PlayStation 5,2025-04-10
+240176,Blue Prince,Xbox Series,2025-04-10
+223654,Animal Well,Windows,2024-05-09
+223654,Animal Well,Nintendo Switch,2024-05-09
+223654,Animal Well,PlayStation 5,2024-05-09
+223654,Animal Well,Xbox Series,2024-05-09
+170037,Psychonauts 2,Linux,2021-08-25
+170037,Psychonauts 2,Windows,2021-08-25
+170037,Psychonauts 2,Macintosh,2021-08-25
+170037,Psychonauts 2,Windows Apps,2021-08-25
+170037,Psychonauts 2,PlayStation 4,2021-08-25
+170037,Psychonauts 2,Xbox One,2021-08-25
+170037,Psychonauts 2,Xbox Series,2021-08-25
+236887,Kingdom Come: Deliverance II,Windows,2025-02-04
+236887,Kingdom Come: Deliverance II,PlayStation 5,2025-02-04
+236887,Kingdom Come: Deliverance II,Xbox Series,2025-02-04
+236887,Kingdom Come: Deliverance II,Luna,2025-02-04
+216563,Tekken 8,Windows,2024-01-25
+216563,Tekken 8,PlayStation 5,2024-01-25
+216563,Tekken 8,Xbox Series,2024-01-25
+143668,Half-Life: Alyx,Windows,2020-03-23
+161320,It Takes Two,Windows,2021-03-26
+161320,It Takes Two,PlayStation 4,2021-03-26
+161320,It Takes Two,Xbox One,2021-03-26
+161320,It Takes Two,Nintendo Switch,2021-03-26
+161320,It Takes Two,PlayStation 5,2021-03-26
+161320,It Takes Two,Xbox Series,2021-03-26
+141485,Final Fantasy VII: Remake,PlayStation 4,2020-04-10
+169624,Ghost of Tsushima: Director's Cut,Windows,2021-08-20
+169624,Ghost of Tsushima: Director's Cut,PlayStation 4,2021-08-20
+169624,Ghost of Tsushima: Director's Cut,PlayStation 5,2021-08-20
+238122,Monster Hunter: Wilds,Windows,2025-02-27
+238122,Monster Hunter: Wilds,PlayStation 5,2025-02-27
+238122,Monster Hunter: Wilds,Xbox Series,2025-02-27
+146798,The Last of Us: Part II,PlayStation 4,2020-06-18
+146798,The Last of Us: Part II,PlayStation Now,2020-06-18
+188601,Xenoblade Chronicles 3,Nintendo Switch,2022-07-29
+172841,Metroid Dread,Nintendo Switch,2021-10-08
+149407,Microsoft Flight Simulator,Windows,2020-08-18
+149407,Microsoft Flight Simulator,Windows Apps,2020-08-18
+149407,Microsoft Flight Simulator,Xbox Series,2020-08-18
+149407,Microsoft Flight Simulator,Xbox Cloud Gaming,2020-08-18
+142015,Ori and the Will of the Wisps,Windows,2020-03-10
+142015,Ori and the Will of the Wisps,Windows Apps,2020-03-10
+142015,Ori and the Will of the Wisps,Xbox One,2020-03-10
+142015,Ori and the Will of the Wisps,Nintendo Switch,2020-03-10
+142015,Ori and the Will of the Wisps,Xbox Cloud Gaming,2020-03-10
+230048,Castlevania: Dominus Collection,Windows,2024-08-27
+230048,Castlevania: Dominus Collection,Nintendo Switch,2024-08-27
+230048,Castlevania: Dominus Collection,PlayStation 5,2024-08-27
+230048,Castlevania: Dominus Collection,Xbox Series,2024-08-27
+174940,Forza Horizon 5,Windows,2021-11-09
+174940,Forza Horizon 5,Windows Apps,2021-11-09
+174940,Forza Horizon 5,Xbox One,2021-11-09
+174940,Forza Horizon 5,PlayStation 5,2021-11-09
+174940,Forza Horizon 5,Xbox Series,2021-11-09
+190774,The Last of Us: Part I,Windows,2022-09-02
+190774,The Last of Us: Part I,PlayStation 5,2022-09-02
+244242,Death Stranding 2: On the Beach,PlayStation 5,2025-06-26
+210676,Slay the Princess,Linux,2023-10-23
+210676,Slay the Princess,Windows,2023-10-23
+210676,Slay the Princess,Macintosh,2023-10-23
+210676,Slay the Princess,PlayStation 4,2023-10-23
+210676,Slay the Princess,Xbox One,2023-10-23
+210676,Slay the Princess,Nintendo Switch,2023-10-23
+210676,Slay the Princess,PlayStation 5,2023-10-23
+210676,Slay the Princess,Xbox Series,2023-10-23
+198497,Hi-Fi Rush,Windows,2023-01-25
+198497,Hi-Fi Rush,Windows Apps,2023-01-25
+198497,Hi-Fi Rush,PlayStation 5,2023-01-25
+198497,Hi-Fi Rush,Xbox Series,2023-01-25
+195765,Chained Echoes,Linux,2022-12-08
+195765,Chained Echoes,Windows,2022-12-08
+195765,Chained Echoes,Macintosh,2022-12-08
+195765,Chained Echoes,Windows Apps,2022-12-08
+195765,Chained Echoes,PlayStation 4,2022-12-08
+195765,Chained Echoes,Xbox One,2022-12-08
+195765,Chained Echoes,Nintendo Switch,2022-12-08
+195765,Chained Echoes,Xbox Series,2022-12-08
+195765,Chained Echoes,Xbox Cloud Gaming,2022-12-08
+224693,Paper Mario: The Thousand-Year Door,Nintendo Switch,2024-05-23
+210733,Marvel Spider-Man 2,Windows,2023-10-19
+210733,Marvel Spider-Man 2,PlayStation 5,2023-10-19
+194057,Dave the Diver,Windows,2022-10-27
+194057,Dave the Diver,Macintosh,2022-10-27
+194057,Dave the Diver,PlayStation 4,2022-10-27
+194057,Dave the Diver,Nintendo Switch,2022-10-27
+194057,Dave the Diver,PlayStation 5,2022-10-27
+225958,Shin Megami Tensei V: Vengeance,Windows,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,Windows Apps,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,PlayStation 4,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,Xbox One,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,Nintendo Switch,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,PlayStation 5,2024-06-14
+225958,Shin Megami Tensei V: Vengeance,Xbox Series,2024-06-14
+176849,Uncharted: Digital Bundle,Windows,2021-12-07
+176849,Uncharted: Digital Bundle,PlayStation 4,2021-12-07
+176849,Uncharted: Digital Bundle,PlayStation 5,2021-12-07
+230810,UFO 50,Windows,2024-09-18
+230810,UFO 50,Nintendo Switch,2024-09-18
+153477,Demon's Souls,PlayStation 5,2020-11-12
+245849,Shinobi: Art of Vengeance,Windows,2025-08-29
+245849,Shinobi: Art of Vengeance,PlayStation 4,2025-08-29
+245849,Shinobi: Art of Vengeance,Xbox One,2025-08-29
+245849,Shinobi: Art of Vengeance,Nintendo Switch,2025-08-29
+245849,Shinobi: Art of Vengeance,PlayStation 5,2025-08-29
+245849,Shinobi: Art of Vengeance,Xbox Series,2025-08-29
+248605,Absolum,Windows,2025-10-09
+248605,Absolum,PlayStation 4,2025-10-09
+248605,Absolum,Nintendo Switch,2025-10-09
+248605,Absolum,PlayStation 5,2025-10-09
+198508,Dead Space,Windows,2023-01-27
+198508,Dead Space,PlayStation 5,2023-01-27
+198508,Dead Space,Xbox Series,2023-01-27
+210927,Alan Wake II,Windows,2023-10-27
+210927,Alan Wake II,PlayStation 5,2023-10-27
+210927,Alan Wake II,Xbox Series,2023-10-27
+207900,Sea of Stars,Windows,2023-08-29
+207900,Sea of Stars,Windows Apps,2023-08-29
+207900,Sea of Stars,PlayStation 4,2023-08-29
+207900,Sea of Stars,Xbox One,2023-08-29
+207900,Sea of Stars,Nintendo Switch,2023-08-29
+207900,Sea of Stars,PlayStation 5,2023-08-29
+207900,Sea of Stars,Xbox Series,2023-08-29
+216878,Persona 3: Reload,Windows,2024-02-02
+216878,Persona 3: Reload,Windows Apps,2024-02-02
+216878,Persona 3: Reload,PlayStation 4,2024-02-02
+216878,Persona 3: Reload,Xbox One,2024-02-02
+216878,Persona 3: Reload,PlayStation 5,2024-02-02
+216878,Persona 3: Reload,Xbox Series,2024-02-02
+216878,Persona 3: Reload,Nintendo Switch 2,2024-02-02
+172725,Death Stranding: Director's Cut,Windows,2021-09-24
+172725,Death Stranding: Director's Cut,Macintosh,2021-09-24
+172725,Death Stranding: Director's Cut,iPhone,2021-09-24
+172725,Death Stranding: Director's Cut,iPad,2021-09-24
+172725,Death Stranding: Director's Cut,Windows Apps,2021-09-24
+172725,Death Stranding: Director's Cut,PlayStation 5,2021-09-24
+172725,Death Stranding: Director's Cut,Xbox Series,2021-09-24
+219115,Unicorn Overlord,PlayStation 4,2024-03-07
+219115,Unicorn Overlord,Nintendo Switch,2024-03-07
+219115,Unicorn Overlord,PlayStation 5,2024-03-07
+219115,Unicorn Overlord,Xbox Series,2024-03-07
+158999,Super Mario 3D World + Bowser’s Fury,Nintendo Switch,2021
+216448,The Last of Us: Part II - Remastered,Windows,2024-01-19
+216448,The Last of Us: Part II - Remastered,PlayStation 5,2024-01-19
+141533,Animal Crossing: New Horizons,Nintendo Switch,2020-03-20
+150140,Tony Hawk's Pro Skater 1 + 2,Windows,2020-09-04
+150140,Tony Hawk's Pro Skater 1 + 2,PlayStation 4,2020-09-04
+150140,Tony Hawk's Pro Skater 1 + 2,Xbox One,2020-09-04
+150140,Tony Hawk's Pro Skater 1 + 2,Nintendo Switch,2020-09-04
+150140,Tony Hawk's Pro Skater 1 + 2,PlayStation 5,2020-09-04
+150140,Tony Hawk's Pro Skater 1 + 2,Xbox Series,2020-09-04
+239702,Xenoblade Chronicles X: Definitive Edition,Nintendo Switch,2025-03-20
+166282,Ratchet & Clank: Rift Apart,Windows,2021-06-10
+166282,Ratchet & Clank: Rift Apart,PlayStation 5,2021-06-10
+211252,The Talos Principle II,Windows,2023-11-02
+211252,The Talos Principle II,PlayStation 5,2023-11-02
+211252,The Talos Principle II,Xbox Series,2023-11-02
+177783,Hades,PlayStation 4,2021
+177783,Hades,Xbox One,2021
+177783,Hades,Nintendo Switch,2021
+177783,Hades,PlayStation 5,2021
+177783,Hades,Xbox Series,2021
+224039,Lorelei and the Laser Eyes,Windows,2024-05-16
+224039,Lorelei and the Laser Eyes,PlayStation 4,2024-05-16
+224039,Lorelei and the Laser Eyes,Nintendo Switch,2024-05-16
+224039,Lorelei and the Laser Eyes,PlayStation 5,2024-05-16
+216014,Prince of Persia: The Lost Crown,Windows,2024-01-18
+216014,Prince of Persia: The Lost Crown,iPhone,2024-01-18
+216014,Prince of Persia: The Lost Crown,Android,2024-01-18
+216014,Prince of Persia: The Lost Crown,iPad,2024-01-18
+216014,Prince of Persia: The Lost Crown,PlayStation 4,2024-01-18
+216014,Prince of Persia: The Lost Crown,Xbox One,2024-01-18
+216014,Prince of Persia: The Lost Crown,Nintendo Switch,2024-01-18
+216014,Prince of Persia: The Lost Crown,PlayStation 5,2024-01-18
+216014,Prince of Persia: The Lost Crown,Xbox Series,2024-01-18
+143581,Doom Eternal,Windows,2020-03-19
+143581,Doom Eternal,Windows Apps,2020-03-19
+143581,Doom Eternal,PlayStation 4,2020-03-19
+143581,Doom Eternal,Xbox One,2020-03-19
+143581,Doom Eternal,Nintendo Switch,2020-03-19
+143581,Doom Eternal,Stadia,2020-03-19
+143581,Doom Eternal,PlayStation 5,2020-03-19
+143581,Doom Eternal,Xbox Cloud Gaming,2020-03-19
+194426,Pentiment,Windows,2022-11-15
+194426,Pentiment,Windows Apps,2022-11-15
+194426,Pentiment,PlayStation 4,2022-11-15
+194426,Pentiment,Xbox One,2022-11-15
+194426,Pentiment,Nintendo Switch,2022-11-15
+194426,Pentiment,PlayStation 5,2022-11-15
+194426,Pentiment,Xbox Series,2022-11-15
+231515,Silent Hill 2,Windows,2024-10-08
+231515,Silent Hill 2,PlayStation 5,2024-10-08
+209361,Cyberpunk 2077 & Phantom Liberty Bundle,Windows,2023-09-26
+209361,Cyberpunk 2077 & Phantom Liberty Bundle,PlayStation 5,2023-09-26
+209361,Cyberpunk 2077 & Phantom Liberty Bundle,Xbox Series,2023-09-26
+209361,Cyberpunk 2077 & Phantom Liberty Bundle,Nintendo Switch 2,2023-09-26
+199777,Theatrhythm: Final Bar Line,PlayStation 4,2023-02-16
+199777,Theatrhythm: Final Bar Line,Nintendo Switch,2023-02-16
+196112,Dwarf Fortress,Linux,2022-12-06
+196112,Dwarf Fortress,Windows,2022-12-06
+248541,Ghost of Yōtei,PlayStation 5,2025-10-01
+195171,Atari 50: The Anniversary Celebration,Windows,2022-11
+195171,Atari 50: The Anniversary Celebration,PlayStation 4,2022-11
+195171,Atari 50: The Anniversary Celebration,Xbox One,2022-11
+195171,Atari 50: The Anniversary Celebration,Nintendo Switch,2022-11
+195171,Atari 50: The Anniversary Celebration,PlayStation 5,2022-11
+195171,Atari 50: The Anniversary Celebration,Xbox Series,2022-11
+195171,Atari 50: The Anniversary Celebration,Atari VCS,2022-11
+220371,Ender Magnolia: Bloom in the Mist,Windows,2024-03-25
+220371,Ender Magnolia: Bloom in the Mist,PlayStation 4,2024-03-25
+220371,Ender Magnolia: Bloom in the Mist,Xbox One,2024-03-25
+220371,Ender Magnolia: Bloom in the Mist,Nintendo Switch,2024-03-25
+220371,Ender Magnolia: Bloom in the Mist,PlayStation 5,2024-03-25
+220371,Ender Magnolia: Bloom in the Mist,Xbox Series,2024-03-25
+178917,Horizon II: Forbidden West,PlayStation 4,2022-02-18
+178917,Horizon II: Forbidden West,PlayStation 5,2022-02-18
+234173,Indiana Jones and the Great Circle,Windows,2024-12-09
+234173,Indiana Jones and the Great Circle,Windows Apps,2024-12-09
+234173,Indiana Jones and the Great Circle,PlayStation 5,2024-12-09
+234173,Indiana Jones and the Great Circle,Xbox Series,2024-12-09
+234173,Indiana Jones and the Great Circle,Xbox Cloud Gaming,2024-12-09
+236760,Citizen Sleeper 2: Starward Vector,Windows,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,Macintosh,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,Windows Apps,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,Nintendo Switch,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,PlayStation 5,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,Xbox Series,2025-01-31
+236760,Citizen Sleeper 2: Starward Vector,Xbox Cloud Gaming,2025-01-31
+193002,Mario + Rabbids: Sparks of Hope,Nintendo Switch,2022-10-20
+173968,Inscryption,Linux,2021-10-19
+173968,Inscryption,Windows,2021-10-19
+173968,Inscryption,Macintosh,2021-10-19
+173968,Inscryption,Windows Apps,2021-10-19
+173968,Inscryption,PlayStation 4,2021-10-19
+173968,Inscryption,Xbox One,2021-10-19
+173968,Inscryption,Nintendo Switch,2021-10-19
+173968,Inscryption,PlayStation 5,2021-10-19
+173968,Inscryption,Xbox Series,2021-10-19
+223635,1000xRESIST,Windows,2024-05-09
+223635,1000xRESIST,Nintendo Switch,2024-05-09
+163431,Returnal,Windows,2021-04-30
+163431,Returnal,PlayStation 5,2021-04-30
+181802,Kirby and the Forgotten Land,Nintendo Switch,2022-03-25
+209564,Cocoon,Windows,2023-09-29
+209564,Cocoon,Windows Apps,2023-09-29
+209564,Cocoon,PlayStation 4,2023-09-29
+209564,Cocoon,Xbox One,2023-09-29
+209564,Cocoon,Nintendo Switch,2023-09-29
+209564,Cocoon,PlayStation 5,2023-09-29
+209564,Cocoon,Xbox Series,2023-09-29
+209564,Cocoon,Xbox Cloud Gaming,2023-09-29
+146988,Ghost of Tsushima,PlayStation 4,2020-07-17
+242779,Pipistrello and the Cursed Yoyo,Windows,2025-05-28
+242779,Pipistrello and the Cursed Yoyo,PlayStation 4,2025-05-28
+242779,Pipistrello and the Cursed Yoyo,Nintendo Switch,2025-05-28
+242779,Pipistrello and the Cursed Yoyo,PlayStation 5,2025-05-28
+242779,Pipistrello and the Cursed Yoyo,Xbox Series,2025-05-28
+232022,Neva,Windows,2024-10-15
+232022,Neva,Macintosh,2024-10-15
+232022,Neva,PlayStation 4,2024-10-15
+232022,Neva,Nintendo Switch,2024-10-15
+232022,Neva,PlayStation 5,2024-10-15
+232022,Neva,Xbox Series,2024-10-15
+145442,Huntdown,Linux,2020-05-12
+145442,Huntdown,Windows,2020-05-12
+145442,Huntdown,Macintosh,2020-05-12
+145442,Huntdown,iPhone,2020-05-12
+145442,Huntdown,Android,2020-05-12
+145442,Huntdown,iPad,2020-05-12
+145442,Huntdown,PlayStation 4,2020-05-12
+145442,Huntdown,Xbox One,2020-05-12
+145442,Huntdown,Nintendo Switch,2020-05-12
+180087,Final Fantasy VI,Windows,2022-02-23
+180087,Final Fantasy VI,iPhone,2022-02-23
+180087,Final Fantasy VI,Android,2022-02-23
+180087,Final Fantasy VI,iPad,2022-02-23
+180087,Final Fantasy VI,PlayStation 4,2022-02-23
+180087,Final Fantasy VI,Nintendo Switch,2022-02-23
+180087,Final Fantasy VI,Xbox Series,2022-02-23
+180055,Total War: Warhammer III,Linux,2022-02-17
+180055,Total War: Warhammer III,Windows,2022-02-17
+180055,Total War: Warhammer III,Macintosh,2022-02-17
+180055,Total War: Warhammer III,Windows Apps,2022-02-17
+145915,Xenoblade Chronicles: Definitive Edition,Nintendo Switch,2020-05-29
+240340,The Talos Principle: Reawakened,Windows,2025-04-10
+240340,The Talos Principle: Reawakened,PlayStation 5,2025-04-10
+240340,The Talos Principle: Reawakened,Xbox Series,2025-04-10
+186311,Neon White,Windows,2022-06-16
+186311,Neon White,Windows Apps,2022-06-16
+186311,Neon White,PlayStation 4,2022-06-16
+186311,Neon White,Xbox One,2022-06-16
+186311,Neon White,Nintendo Switch,2022-06-16
+186311,Neon White,PlayStation 5,2022-06-16
+186311,Neon White,Xbox Series,2022-06-16
+224086,Mullet MadJack,Windows,2024-05-15
+224086,Mullet MadJack,Windows Apps,2024-05-15
+224086,Mullet MadJack,Xbox One,2024-05-15
+224086,Mullet MadJack,Xbox Series,2024-05-15
+230832,Frostpunk 2,Windows,2024-09-20
+230832,Frostpunk 2,Macintosh,2024-09-20
+230832,Frostpunk 2,Windows Apps,2024-09-20
+230832,Frostpunk 2,PlayStation 5,2024-09-20
+230832,Frostpunk 2,Xbox Series,2024-09-20
+230832,Frostpunk 2,Xbox Cloud Gaming,2024-09-20
+169609,Quake,Windows,2021-08-19
+169609,Quake,Windows Apps,2021-08-19
+169609,Quake,PlayStation 4,2021-08-19
+169609,Quake,Xbox One,2021-08-19
+169609,Quake,Nintendo Switch,2021-08-19
+169609,Quake,PlayStation 5,2021-08-19
+169609,Quake,Xbox Series,2021-08-19
+169609,Quake,Xbox Cloud Gaming,2021-08-19
+211270,Star Ocean: The Second Story R,Windows,2023-11-02
+211270,Star Ocean: The Second Story R,PlayStation 4,2023-11-02
+211270,Star Ocean: The Second Story R,Nintendo Switch,2023-11-02
+211270,Star Ocean: The Second Story R,PlayStation 5,2023-11-02
+164405,Mass Effect: Legendary Edition,Windows,2021-05-13
+164405,Mass Effect: Legendary Edition,PlayStation 4,2021-05-13
+164405,Mass Effect: Legendary Edition,Xbox One,2021-05-13
+164405,Mass Effect: Legendary Edition,Xbox Series,2021-05-13
+187183,AI: The Somnium Files - nirvanA Initiative,Windows,2022-06-23
+187183,AI: The Somnium Files - nirvanA Initiative,Windows Apps,2022-06-23
+187183,AI: The Somnium Files - nirvanA Initiative,PlayStation 4,2022-06-23
+187183,AI: The Somnium Files - nirvanA Initiative,Xbox One,2022-06-23
+187183,AI: The Somnium Files - nirvanA Initiative,Nintendo Switch,2022-06-23
+187183,AI: The Somnium Files - nirvanA Initiative,Xbox Series,2022-06-23
+160124,Monster Hunter: Rise,Windows,2021-03-26
+160124,Monster Hunter: Rise,Windows Apps,2021-03-26
+160124,Monster Hunter: Rise,PlayStation 4,2021-03-26
+160124,Monster Hunter: Rise,Xbox One,2021-03-26
+160124,Monster Hunter: Rise,Nintendo Switch,2021-03-26
+160124,Monster Hunter: Rise,PlayStation 5,2021-03-26
+160124,Monster Hunter: Rise,Xbox Series,2021-03-26
+153150,Yakuza: Like a Dragon,Windows,2020-01-16
+153150,Yakuza: Like a Dragon,Windows Apps,2020-01-16
+153150,Yakuza: Like a Dragon,PlayStation 4,2020-01-16
+153150,Yakuza: Like a Dragon,Xbox One,2020-01-16
+153150,Yakuza: Like a Dragon,PlayStation 5,2020-01-16
+153150,Yakuza: Like a Dragon,Xbox Series,2020-01-16
+153150,Yakuza: Like a Dragon,Luna,2020-01-16
+180080,Gran Turismo 7,PlayStation 4,2022-03-04
+180080,Gran Turismo 7,PlayStation 5,2022-03-04
+157629,Hitman III,Windows,2021-01-20
+157629,Hitman III,PlayStation 4,2021-01-20
+157629,Hitman III,Xbox One,2021-01-20
+157629,Hitman III,Stadia,2021-01-20
+157629,Hitman III,PlayStation 5,2021-01-20
+157629,Hitman III,Xbox Series,2021-01-20
+241974,Doom: The Dark Ages,Windows,2025-05-15
+241974,Doom: The Dark Ages,Windows Apps,2025-05-15
+241974,Doom: The Dark Ages,PlayStation 5,2025-05-15
+241974,Doom: The Dark Ages,Xbox Series,2025-05-15
+193347,Tactics Ogre: Reborn,Windows,2022-11-11
+193347,Tactics Ogre: Reborn,PlayStation 4,2022-11-11
+193347,Tactics Ogre: Reborn,Nintendo Switch,2022-11-11
+193347,Tactics Ogre: Reborn,PlayStation 5,2022-11-11
+143125,Jack Jeanne,iPhone,2021-03-18
+143125,Jack Jeanne,Android,2021-03-18
+143125,Jack Jeanne,iPad,2021-03-18
+143125,Jack Jeanne,Nintendo Switch,2021-03-18
+228659,Thank Goodness You're Here!,Windows,2024-08-01
+228659,Thank Goodness You're Here!,Macintosh,2024-08-01
+228659,Thank Goodness You're Here!,PlayStation 4,2024-08-01
+228659,Thank Goodness You're Here!,Nintendo Switch,2024-08-01
+228659,Thank Goodness You're Here!,PlayStation 5,2024-08-01
+198390,Pizza Tower,Windows,2023-01-26
+198390,Pizza Tower,Nintendo Switch,2023-01-26
+205088,Ghost Trick: Phantom Detective,Windows,2023-06-30
+205088,Ghost Trick: Phantom Detective,iPhone,2023-06-30
+205088,Ghost Trick: Phantom Detective,Android,2023-06-30
+205088,Ghost Trick: Phantom Detective,iPad,2023-06-30
+205088,Ghost Trick: Phantom Detective,PlayStation 4,2023-06-30
+205088,Ghost Trick: Phantom Detective,Xbox One,2023-06-30
+205088,Ghost Trick: Phantom Detective,Nintendo Switch,2023-06-30
+205088,Ghost Trick: Phantom Detective,Xbox Series,2023-06-30
+142906,Streets of Rage 4,Linux,2020
+142906,Streets of Rage 4,Windows,2020
+142906,Streets of Rage 4,Macintosh,2020
+142906,Streets of Rage 4,iPhone,2020
+142906,Streets of Rage 4,Android,2020
+142906,Streets of Rage 4,iPad,2020
+142906,Streets of Rage 4,Windows Apps,2020
+142906,Streets of Rage 4,PlayStation 4,2020
+142906,Streets of Rage 4,Xbox One,2020
+142906,Streets of Rage 4,Nintendo Switch,2020
+142906,Streets of Rage 4,Stadia,2020
+142906,Streets of Rage 4,Xbox Cloud Gaming,2020
+153499,PlayStation 5 (included game),PlayStation 5,2020-11-12
+174498,Shin Megami Tensei V,Nintendo Switch,2021-11-11
+241084,The Hundred Line: Last Defense Academy,Windows,2025-04-24
+241084,The Hundred Line: Last Defense Academy,Nintendo Switch,2025-04-24
+163363,Final Fantasy VII: Remake - Intergrade,Windows,2021-06-10
+163363,Final Fantasy VII: Remake - Intergrade,PlayStation 5,2021-06-10
+149534,Crusader Kings III,Linux,2020-09-01
+149534,Crusader Kings III,Windows,2020-09-01
+149534,Crusader Kings III,Macintosh,2020-09-01
+149534,Crusader Kings III,Windows Apps,2020-09-01
+149534,Crusader Kings III,PlayStation 5,2020-09-01
+230414,Marvel vs. Capcom Fighting Collection: Arcade Classics,Windows,2024-09-11
+230414,Marvel vs. Capcom Fighting Collection: Arcade Classics,PlayStation 4,2024-09-11
+230414,Marvel vs. Capcom Fighting Collection: Arcade Classics,Xbox One,2024-09-11
+230414,Marvel vs. Capcom Fighting Collection: Arcade Classics,Nintendo Switch,2024-09-11
+230414,Marvel vs. Capcom Fighting Collection: Arcade Classics,Xbox Series,2024-09-11
+243163,Ninja Gaiden: Ragebound,Windows,2025-07-31
+243163,Ninja Gaiden: Ragebound,PlayStation 4,2025-07-31
+243163,Ninja Gaiden: Ragebound,Xbox One,2025-07-31
+243163,Ninja Gaiden: Ragebound,Nintendo Switch,2025-07-31
+243163,Ninja Gaiden: Ragebound,PlayStation 5,2025-07-31
+243163,Ninja Gaiden: Ragebound,Xbox Series,2025-07-31
+149441,Rogue Legacy 2,Windows,2020-08-18
+149441,Rogue Legacy 2,PlayStation 4,2020-08-18
+149441,Rogue Legacy 2,Nintendo Switch,2020-08-18
+149441,Rogue Legacy 2,PlayStation 5,2020-08-18
+149441,Rogue Legacy 2,Xbox Series,2020-08-18
+231129,The Legend of Zelda: Echoes of Wisdom,Nintendo Switch,2024-09-26
+238308,Two Point Museum,Linux,2025-03-04
+238308,Two Point Museum,Windows,2025-03-04
+238308,Two Point Museum,Macintosh,2025-03-04
+238308,Two Point Museum,PlayStation 5,2025-03-04
+238308,Two Point Museum,Xbox Series,2025-03-04
+220011,Horizon II: Forbidden West - Complete Edition,Windows,2023-10-06
+220011,Horizon II: Forbidden West - Complete Edition,PlayStation 5,2023-10-06
+243161,Metal Gear Solid Δ: Snake Eater,Windows,2025-08-27
+243161,Metal Gear Solid Δ: Snake Eater,PlayStation 5,2025-08-27
+243161,Metal Gear Solid Δ: Snake Eater,Xbox Series,2025-08-27
+190202,Immortality,Windows,2022-08-30
+190202,Immortality,Macintosh,2022-08-30
+190202,Immortality,iPhone,2022-08-30
+190202,Immortality,Android,2022-08-30
+190202,Immortality,iPad,2022-08-30
+190202,Immortality,Windows Apps,2022-08-30
+190202,Immortality,PlayStation 5,2022-08-30
+190202,Immortality,Xbox Series,2022-08-30
+190202,Immortality,Xbox Cloud Gaming,2022-08-30
+229435,Tactical Breach Wizards,Windows,2024-08-22
+211718,Bzzzt,Linux,2023-11-13
+211718,Bzzzt,Windows,2023-11-13
+211718,Bzzzt,Macintosh,2023-11-13
+211718,Bzzzt,Nintendo Switch,2023-11-13
+193748,Victoria 3,Linux,2022-10-25
+193748,Victoria 3,Windows,2022-10-25
+193748,Victoria 3,Macintosh,2022-10-25
+245183,The Drifter,Linux,2025-07-17
+245183,The Drifter,Windows,2025-07-17
+245183,The Drifter,Macintosh,2025-07-17
+191783,Return to Monkey Island,Linux,2022-09-19
+191783,Return to Monkey Island,Windows,2022-09-19
+191783,Return to Monkey Island,Macintosh,2022-09-19
+191783,Return to Monkey Island,iPhone,2022-09-19
+191783,Return to Monkey Island,Android,2022-09-19
+191783,Return to Monkey Island,iPad,2022-09-19
+191783,Return to Monkey Island,Windows Apps,2022-09-19
+191783,Return to Monkey Island,Nintendo Switch,2022-09-19
+191783,Return to Monkey Island,PlayStation 5,2022-09-19
+191783,Return to Monkey Island,Xbox Series,2022-09-19
+207696,Blasphemous II,Windows,2023-08-24
+207696,Blasphemous II,PlayStation 4,2023-08-24
+207696,Blasphemous II,Xbox One,2023-08-24
+207696,Blasphemous II,Nintendo Switch,2023-08-24
+207696,Blasphemous II,PlayStation 5,2023-08-24
+207696,Blasphemous II,Xbox Series,2023-08-24
+228673,Minds Beneath Us,Windows,2024-07-31
+199652,Octopath Traveler II,Windows,2023-02-24
+199652,Octopath Traveler II,Windows Apps,2023-02-24
+199652,Octopath Traveler II,PlayStation 4,2023-02-24
+199652,Octopath Traveler II,Xbox One,2023-02-24
+199652,Octopath Traveler II,Nintendo Switch,2023-02-24
+199652,Octopath Traveler II,PlayStation 5,2023-02-24
+199652,Octopath Traveler II,Xbox Series,2023-02-24
+143045,A Space for the Unbound,Windows,2023-01-18
+143045,A Space for the Unbound,iPhone,2023-01-18
+143045,A Space for the Unbound,iPad,2023-01-18
+143045,A Space for the Unbound,PlayStation 4,2023-01-18
+143045,A Space for the Unbound,Xbox One,2023-01-18
+143045,A Space for the Unbound,Nintendo Switch,2023-01-18
+143045,A Space for the Unbound,PlayStation 5,2023-01-18
+143045,A Space for the Unbound,Xbox Series,2023-01-18
+204085,Diablo IV,Windows,2023-06-06
+204085,Diablo IV,PlayStation 4,2023-06-06
+204085,Diablo IV,Xbox One,2023-06-06
+204085,Diablo IV,PlayStation 5,2023-06-06
+204085,Diablo IV,Xbox Series,2023-06-06
+207099,Quake II,Windows,2023-08-10
+207099,Quake II,Windows Apps,2023-08-10
+207099,Quake II,PlayStation 4,2023-08-10
+207099,Quake II,Xbox One,2023-08-10
+207099,Quake II,Nintendo Switch,2023-08-10
+207099,Quake II,PlayStation 5,2023-08-10
+207099,Quake II,Xbox Series,2023-08-10
+243602,The Alters,Windows,2025-06-13
+243602,The Alters,Windows Apps,2025-06-13
+243602,The Alters,PlayStation 5,2025-06-13
+243602,The Alters,Xbox Series,2025-06-13
+243602,The Alters,Xbox Cloud Gaming,2025-06-13
+233313,Dragon Quest III: HD-2D Remake,Windows,2024-11-13
+233313,Dragon Quest III: HD-2D Remake,Windows Apps,2024-11-13
+233313,Dragon Quest III: HD-2D Remake,Nintendo Switch,2024-11-13
+233313,Dragon Quest III: HD-2D Remake,PlayStation 5,2024-11-13
+233313,Dragon Quest III: HD-2D Remake,Xbox Series,2024-11-13
+232002,Mouthwashing,Windows,2024-09-26
+168299,NEO: The World Ends with You,Windows,2021-07-27
+168299,NEO: The World Ends with You,PlayStation 4,2021-07-27
+168299,NEO: The World Ends with You,Nintendo Switch,2021-07-27
+141439,Dreams,PlayStation 4,2020-02-13
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,Windows,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,Windows Apps,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,PlayStation 4,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,Xbox One,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,Nintendo Switch,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,PlayStation 5,2025-03-06
+238456,Suikoden I&II HD Remaster: Gate Rune & Dunan Unification Wars,Xbox Series,2025-03-06
+243068,Mario Kart World,Nintendo Switch 2,2025-06-05
+213969,Asgard's Wrath II,Quest,2023-12-15
+204724,Final Fantasy XVI,Windows,2023-06-21
+204724,Final Fantasy XVI,Windows Apps,2023-06-21
+204724,Final Fantasy XVI,PlayStation 5,2023-06-21
+204724,Final Fantasy XVI,Xbox Series,2023-06-21
+181834,NORCO,Windows,2022-03-24
+181834,NORCO,Macintosh,2022-03-24
+181834,NORCO,Windows Apps,2022-03-24
+181834,NORCO,PlayStation 4,2022-03-24
+181834,NORCO,Xbox One,2022-03-24
+181834,NORCO,PlayStation 5,2022-03-24
+181834,NORCO,Xbox Series,2022-03-24
+181834,NORCO,Xbox Cloud Gaming,2022-03-24
+246692,Sword of the Sea,Windows,2025-08-19
+246692,Sword of the Sea,PlayStation 5,2025-08-19
+172699,Castlevania: Advance Collection,Windows,2021-09-23
+172699,Castlevania: Advance Collection,PlayStation 4,2021-09-23
+172699,Castlevania: Advance Collection,Xbox One,2021-09-23
+172699,Castlevania: Advance Collection,Nintendo Switch,2021-09-23
+172699,Castlevania: Advance Collection,Xbox Series,2021-09-23
+161794,NieR Replicant ver.1.22474487139...,Windows,2021-04-22
+161794,NieR Replicant ver.1.22474487139...,PlayStation 4,2021-04-22
+161794,NieR Replicant ver.1.22474487139...,Xbox One,2021-04-22
+161794,NieR Replicant ver.1.22474487139...,Xbox Series,2021-04-22
+248025,Silent Hill f,Windows,2025-09-24
+248025,Silent Hill f,Windows Apps,2025-09-24
+248025,Silent Hill f,PlayStation 5,2025-09-24
+248025,Silent Hill f,Xbox Series,2025-09-24
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Linux,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Windows,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,iPhone,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Android,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,iPad,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Windows Apps,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,PlayStation 4,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Xbox One,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Nintendo Switch,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,PlayStation 5,2022-06-16
+185858,Teenage Mutant Ninja Turtles: Shredder's Revenge,Xbox Series,2022-06-16
+172770,Lost Judgment,Windows,2021-09-23
+172770,Lost Judgment,PlayStation 4,2021-09-23
+172770,Lost Judgment,Xbox One,2021-09-23
+172770,Lost Judgment,PlayStation 5,2021-09-23
+172770,Lost Judgment,Xbox Series,2021-09-23
+216823,Granblue Fantasy: Relink,Windows,2024-02-01
+216823,Granblue Fantasy: Relink,PlayStation 4,2024-02-01
+216823,Granblue Fantasy: Relink,PlayStation 5,2024-02-01
+228856,Fate/stay night: Remastered,Windows,2024-08-07
+228856,Fate/stay night: Remastered,Nintendo Switch,2024-08-07
+161717,Before Your Eyes,Windows,2021-04-08
+161717,Before Your Eyes,iPhone,2021-04-08
+161717,Before Your Eyes,Android,2021-04-08
+161717,Before Your Eyes,iPad,2021-04-08
+161717,Before Your Eyes,PlayStation 5,2021-04-08
+211613,The Legend of Heroes: Trails Through Daybreak,Windows,2021-09-30
+211613,The Legend of Heroes: Trails Through Daybreak,PlayStation 4,2021-09-30
+211613,The Legend of Heroes: Trails Through Daybreak,Nintendo Switch,2021-09-30
+211613,The Legend of Heroes: Trails Through Daybreak,PlayStation 5,2021-09-30
+206244,Pikmin 4,Nintendo Switch,2023-07-21
+232677,The Holy Gosh Darn,Windows,2024-09-26
+232677,The Holy Gosh Darn,PlayStation 4,2024-09-26
+232677,The Holy Gosh Darn,Xbox One,2024-09-26
+232677,The Holy Gosh Darn,Nintendo Switch,2024-09-26
+232677,The Holy Gosh Darn,PlayStation 5,2024-09-26
+232677,The Holy Gosh Darn,Xbox Series,2024-09-26
+230077,Ace Attorney Investigations Collection,Windows,2024-09-06
+230077,Ace Attorney Investigations Collection,Windows Apps,2024-09-06
+230077,Ace Attorney Investigations Collection,PlayStation 4,2024-09-06
+230077,Ace Attorney Investigations Collection,Xbox One,2024-09-06
+230077,Ace Attorney Investigations Collection,Nintendo Switch,2024-09-06
+230077,Ace Attorney Investigations Collection,Xbox Series,2024-09-06
+183562,The Stanley Parable: Ultra Deluxe,Linux,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,Windows,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,Macintosh,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,iPhone,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,iPad,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,PlayStation 4,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,Xbox One,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,Nintendo Switch,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,PlayStation 5,2022-04-27
+183562,The Stanley Parable: Ultra Deluxe,Xbox Series,2022-04-27
+182452,LEGO Star Wars: The Skywalker Saga,Windows,2022-04-05
+182452,LEGO Star Wars: The Skywalker Saga,PlayStation 4,2022-04-05
+182452,LEGO Star Wars: The Skywalker Saga,Xbox One,2022-04-05
+182452,LEGO Star Wars: The Skywalker Saga,Nintendo Switch,2022-04-05
+182452,LEGO Star Wars: The Skywalker Saga,PlayStation 5,2022-04-05
+182452,LEGO Star Wars: The Skywalker Saga,Xbox Series,2022-04-05
+181370,Tunic,Windows,2022-03-16
+181370,Tunic,Macintosh,2022-03-16
+181370,Tunic,Windows Apps,2022-03-16
+181370,Tunic,PlayStation 4,2022-03-16
+181370,Tunic,Xbox One,2022-03-16
+181370,Tunic,Nintendo Switch,2022-03-16
+181370,Tunic,PlayStation 5,2022-03-16
+181370,Tunic,Xbox Series,2022-03-16
+168298,The Great Ace Attorney Chronicles,Windows,2021-07-27
+168298,The Great Ace Attorney Chronicles,PlayStation 4,2021-07-27
+168298,The Great Ace Attorney Chronicles,Nintendo Switch,2021-07-27
+234927,Super Mario Party Jamboree,Nintendo Switch,2024-10-17
+155960,Omori,Windows,2020-12-18
+155960,Omori,Macintosh,2020-12-18
+155960,Omori,Windows Apps,2020-12-18
+155960,Omori,PlayStation 4,2020-12-18
+155960,Omori,Xbox One,2020-12-18
+155960,Omori,Nintendo Switch,2020-12-18
+155960,Omori,Xbox Series,2020-12-18
+155960,Omori,Xbox Cloud Gaming,2020-12-18
+191506,Beacon Pines,Windows,2022-09-22
+191506,Beacon Pines,Windows Apps,2022-09-22
+191506,Beacon Pines,Xbox One,2022-09-22
+191506,Beacon Pines,Nintendo Switch,2022-09-22
+191506,Beacon Pines,Xbox Series,2022-09-22
+191506,Beacon Pines,Xbox Cloud Gaming,2022-09-22
+166843,Doki Doki Literature Club Plus!,Windows,2021-06-30
+166843,Doki Doki Literature Club Plus!,PlayStation 4,2021-06-30
+166843,Doki Doki Literature Club Plus!,Xbox One,2021-06-30
+166843,Doki Doki Literature Club Plus!,Nintendo Switch,2021-06-30
+166843,Doki Doki Literature Club Plus!,PlayStation 5,2021-06-30
+166843,Doki Doki Literature Club Plus!,Xbox Series,2021-06-30
+207330,The Cosmic Wheel Sisterhood,Windows,2023-08-16
+207330,The Cosmic Wheel Sisterhood,Nintendo Switch,2023-08-16
+242403,Fantasy Life i: The Girl Who Steals Time,Windows,2025-05-21
+242403,Fantasy Life i: The Girl Who Steals Time,PlayStation 4,2025-05-21
+242403,Fantasy Life i: The Girl Who Steals Time,Nintendo Switch,2025-05-21
+242403,Fantasy Life i: The Girl Who Steals Time,PlayStation 5,2025-05-21
+242403,Fantasy Life i: The Girl Who Steals Time,Xbox Series,2025-05-21
+242403,Fantasy Life i: The Girl Who Steals Time,Nintendo Switch 2,2025-05-21
+199774,Paranormasight: The Seven Mysteries of Honjo,Windows,2023-03-08
+199774,Paranormasight: The Seven Mysteries of Honjo,iPhone,2023-03-08
+199774,Paranormasight: The Seven Mysteries of Honjo,Android,2023-03-08
+199774,Paranormasight: The Seven Mysteries of Honjo,iPad,2023-03-08
+199774,Paranormasight: The Seven Mysteries of Honjo,Nintendo Switch,2023-03-08
+212038,Super Mario RPG,Nintendo Switch,2023-11-17
+208271,Chants of Sennaar,Windows,2023-09-05
+208271,Chants of Sennaar,Windows Apps,2023-09-05
+208271,Chants of Sennaar,PlayStation 4,2023-09-05
+208271,Chants of Sennaar,Xbox One,2023-09-05
+208271,Chants of Sennaar,Nintendo Switch,2023-09-05
+208271,Chants of Sennaar,Xbox Series,2023-09-05
+168414,The Forgotten City,Windows,2021-07-28
+168414,The Forgotten City,PlayStation 4,2021-07-28
+168414,The Forgotten City,Xbox One,2021-07-28
+168414,The Forgotten City,Stadia,2021-07-28
+168414,The Forgotten City,PlayStation 5,2021-07-28
+168414,The Forgotten City,Xbox Series,2021-07-28
+146084,Command & Conquer: Remastered Collection,Windows,2020-06-05
+200898,Atelier Ryza 3: Alchemist of the End & the Secret Key,Windows,2023-03-24
+200898,Atelier Ryza 3: Alchemist of the End & the Secret Key,PlayStation 4,2023-03-24
+200898,Atelier Ryza 3: Alchemist of the End & the Secret Key,Nintendo Switch,2023-03-24
+200898,Atelier Ryza 3: Alchemist of the End & the Secret Key,PlayStation 5,2023-03-24
+152363,Pikmin 3 Deluxe,Nintendo Switch,2020-10-30
+171514,Tales of Arise,Windows,2021-09-09
+171514,Tales of Arise,PlayStation 4,2021-09-09
+171514,Tales of Arise,Xbox One,2021-09-09
+171514,Tales of Arise,PlayStation 5,2021-09-09
+171514,Tales of Arise,Xbox Series,2021-09-09
+235942,The Roottrees are Dead,Linux,2025-01-15
+235942,The Roottrees are Dead,Windows,2025-01-15
+235942,The Roottrees are Dead,Macintosh,2025-01-15
+179408,OlliOlli World,Windows,2022-02-08
+179408,OlliOlli World,PlayStation 4,2022-02-08
+179408,OlliOlli World,Xbox One,2022-02-08
+179408,OlliOlli World,Nintendo Switch,2022-02-08
+179408,OlliOlli World,PlayStation 5,2022-02-08
+179408,OlliOlli World,Xbox Series,2022-02-08
+243175,Street Fighter 6: Years 1-2 - Fighters Edition,Windows,2025-06-05
+243175,Street Fighter 6: Years 1-2 - Fighters Edition,PlayStation 4,2025-06-05
+243175,Street Fighter 6: Years 1-2 - Fighters Edition,PlayStation 5,2025-06-05
+243175,Street Fighter 6: Years 1-2 - Fighters Edition,Xbox Series,2025-06-05
+243175,Street Fighter 6: Years 1-2 - Fighters Edition,Nintendo Switch 2,2025-06-05
+194368,Against the Storm,Windows,2021-12-16
+194368,Against the Storm,Windows Apps,2021-12-16
+194368,Against the Storm,Xbox One,2021-12-16
+194368,Against the Storm,Nintendo Switch,2021-12-16
+194368,Against the Storm,PlayStation 5,2021-12-16
+194368,Against the Storm,Xbox Series,2021-12-16
+194368,Against the Storm,Xbox Cloud Gaming,2021-12-16
+230234,"Warhammer 40,000: Space Marine II",Windows,2024-09-09
+230234,"Warhammer 40,000: Space Marine II",PlayStation 5,2024-09-09
+230234,"Warhammer 40,000: Space Marine II",Xbox Series,2024-09-09
+195971,Marvel Midnight Suns,Windows,2022-12-02
+195971,Marvel Midnight Suns,PlayStation 4,2022-12-02
+195971,Marvel Midnight Suns,Xbox One,2022-12-02
+193614,A Plague Tale: Requiem,Windows,2022-10-18
+193614,A Plague Tale: Requiem,Windows Apps,2022-10-18
+193614,A Plague Tale: Requiem,PlayStation 5,2022-10-18
+193614,A Plague Tale: Requiem,Xbox Series,2022-10-18
+193614,A Plague Tale: Requiem,Xbox Cloud Gaming,2022-10-18
+190230,Splatoon 3,Nintendo Switch,2022-09-09
+201867,Star Wars: Jedi - Survivor,Windows,2023-04-28
+201867,Star Wars: Jedi - Survivor,PlayStation 5,2023-04-28
+201867,Star Wars: Jedi - Survivor,Xbox Series,2023-04-28
+188150,Stray,Windows,2022-07-19
+188150,Stray,Windows Apps,2022-07-19
+188150,Stray,PlayStation 4,2022-07-19
+188150,Stray,Xbox One,2022-07-19
+188150,Stray,Nintendo Switch,2022-07-19
+188150,Stray,PlayStation 5,2022-07-19
+188150,Stray,Xbox Series,2022-07-19
+209731,Disgaea 7: Vows of the Virtueless,Windows,2023-10-03
+209731,Disgaea 7: Vows of the Virtueless,PlayStation 4,2023-10-03
+209731,Disgaea 7: Vows of the Virtueless,Nintendo Switch,2023-10-03
+209731,Disgaea 7: Vows of the Virtueless,PlayStation 5,2023-10-03
+221075,Minishoot' Adventures,Windows,2024-04-02
+221075,Minishoot' Adventures,Macintosh,2024-04-02
+231762,Dragon Ball: Sparking! Zero,Windows,2024-10-09
+231762,Dragon Ball: Sparking! Zero,PlayStation 5,2024-10-09
+231762,Dragon Ball: Sparking! Zero,Xbox Series,2024-10-09
+188798,Cult of the Lamb,Windows,2022-08-11
+188798,Cult of the Lamb,Macintosh,2022-08-11
+188798,Cult of the Lamb,PlayStation 4,2022-08-11
+188798,Cult of the Lamb,Xbox One,2022-08-11
+188798,Cult of the Lamb,Nintendo Switch,2022-08-11
+188798,Cult of the Lamb,PlayStation 5,2022-08-11
+188798,Cult of the Lamb,Xbox Series,2022-08-11
+220049,Dragon's Dogma II,Windows,2024-03-22
+220049,Dragon's Dogma II,PlayStation 5,2024-03-22
+220049,Dragon's Dogma II,Xbox Series,2024-03-22
+218674,Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island,Windows,2024-01-25
+218674,Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island,Nintendo Switch,2024-01-25
+242401,Monster Train 2,Windows,2025-05-21
+242401,Monster Train 2,Windows Apps,2025-05-21
+242401,Monster Train 2,PlayStation 5,2025-05-21
+242401,Monster Train 2,Xbox Series,2025-05-21
+242401,Monster Train 2,Xbox Cloud Gaming,2025-05-21
+202271,Cassette Beasts,Linux,2023-04-26
+202271,Cassette Beasts,Windows,2023-04-26
+202271,Cassette Beasts,iPhone,2023-04-26
+202271,Cassette Beasts,Android,2023-04-26
+202271,Cassette Beasts,iPad,2023-04-26
+202271,Cassette Beasts,Windows Apps,2023-04-26
+202271,Cassette Beasts,Xbox One,2023-04-26
+202271,Cassette Beasts,Nintendo Switch,2023-04-26
+202271,Cassette Beasts,Xbox Series,2023-04-26
+216472,Lil' Guardsman,Windows,2024-01-23
+216472,Lil' Guardsman,Macintosh,2024-01-23
+216472,Lil' Guardsman,PlayStation 4,2024-01-23
+216472,Lil' Guardsman,Xbox One,2024-01-23
+216472,Lil' Guardsman,Nintendo Switch,2024-01-23
+216472,Lil' Guardsman,PlayStation 5,2024-01-23
+216472,Lil' Guardsman,Xbox Series,2024-01-23
+164830,Lacuna,Windows,2021-05-20
+164830,Lacuna,PlayStation 4,2021-05-20
+164830,Lacuna,Xbox One,2021-05-20
+164830,Lacuna,Nintendo Switch,2021-05-20
+164830,Lacuna,Xbox Series,2021-05-20
+149844,Wasteland 3,Linux,2020-08-28
+149844,Wasteland 3,Windows,2020-08-28
+149844,Wasteland 3,Macintosh,2020-08-28
+149844,Wasteland 3,Windows Apps,2020-08-28
+149844,Wasteland 3,PlayStation 4,2020-08-28
+149844,Wasteland 3,Xbox One,2020-08-28
+157880,Ender Lilies: Quietus of the Knights,Windows,2021-01-20
+157880,Ender Lilies: Quietus of the Knights,PlayStation 4,2021-01-20
+157880,Ender Lilies: Quietus of the Knights,Xbox One,2021-01-20
+157880,Ender Lilies: Quietus of the Knights,Nintendo Switch,2021-01-20
+157880,Ender Lilies: Quietus of the Knights,Xbox Series,2021-01-20
+193361,The Case of the Golden Idol,Windows,2022-10-13
+193361,The Case of the Golden Idol,Macintosh,2022-10-13
+193361,The Case of the Golden Idol,Windows Apps,2022-10-13
+193361,The Case of the Golden Idol,Xbox One,2022-10-13
+193361,The Case of the Golden Idol,Nintendo Switch,2022-10-13
+193361,The Case of the Golden Idol,Xbox Series,2022-10-13
+146501,Desperados III,Linux,2020-06-16
+146501,Desperados III,Windows,2020-06-16
+146501,Desperados III,Macintosh,2020-06-16
+146501,Desperados III,Windows Apps,2020-06-16
+146501,Desperados III,PlayStation 4,2020-06-16
+146501,Desperados III,Xbox One,2020-06-16
+146501,Desperados III,PlayStation Now,2020-06-16
+184776,V Rising,Windows,2022-05-17
+184776,V Rising,PlayStation 5,2022-05-17
+203977,We ♥ Katamari: Reroll+ Royal Reverie,Windows,2023-06-01
+203977,We ♥ Katamari: Reroll+ Royal Reverie,PlayStation 4,2023-06-01
+203977,We ♥ Katamari: Reroll+ Royal Reverie,Xbox One,2023-06-01
+203977,We ♥ Katamari: Reroll+ Royal Reverie,Nintendo Switch,2023-06-01
+203977,We ♥ Katamari: Reroll+ Royal Reverie,PlayStation 5,2023-06-01
+203977,We ♥ Katamari: Reroll+ Royal Reverie,Xbox Series,2023-06-01
+141524,Nioh 2,PlayStation 4,2020-03-12
+141524,Nioh 2,PlayStation Now,2020-03-12
+229162,The Crimson Diamond,Windows,2024-08-15
+229162,The Crimson Diamond,Macintosh,2024-08-15
+203194,Humanity,Windows,2023-05-15
+203194,Humanity,Windows Apps,2023-05-15
+203194,Humanity,PlayStation 4,2023-05-15
+203194,Humanity,Xbox One,2023-05-15
+203194,Humanity,PlayStation 5,2023-05-15
+203194,Humanity,Xbox Series,2023-05-15
+203194,Humanity,Xbox Cloud Gaming,2023-05-15
+201121,Dredge,Windows,2023-03-29
+201121,Dredge,iPhone,2023-03-29
+201121,Dredge,Android,2023-03-29
+201121,Dredge,iPad,2023-03-29
+201121,Dredge,PlayStation 4,2023-03-29
+201121,Dredge,Xbox One,2023-03-29
+201121,Dredge,Nintendo Switch,2023-03-29
+201121,Dredge,PlayStation 5,2023-03-29
+201121,Dredge,Xbox Series,2023-03-29
+150805,Mafia: Definitive Edition,Windows,2020-09-24
+150805,Mafia: Definitive Edition,PlayStation 4,2020-09-24
+150805,Mafia: Definitive Edition,Xbox One,2020-09-24
+150805,Mafia: Definitive Edition,Xbox Series,2020-09-24
+150805,Mafia: Definitive Edition,PlayStation Now,2020-09-24
+233642,The Rise of the Golden Idol,Windows,2024-11-12
+233642,The Rise of the Golden Idol,Macintosh,2024-11-12
+233642,The Rise of the Golden Idol,iPhone,2024-11-12
+233642,The Rise of the Golden Idol,Android,2024-11-12
+233642,The Rise of the Golden Idol,iPad,2024-11-12
+233642,The Rise of the Golden Idol,Xbox One,2024-11-12
+233642,The Rise of the Golden Idol,Nintendo Switch,2024-11-12
+233642,The Rise of the Golden Idol,PlayStation 5,2024-11-12
+233642,The Rise of the Golden Idol,Xbox Series,2024-11-12
+153717,Mortal Kombat 11: Ultimate,Windows,2020-11-17
+153717,Mortal Kombat 11: Ultimate,PlayStation 4,2020-11-17
+153717,Mortal Kombat 11: Ultimate,Xbox One,2020-11-17
+153717,Mortal Kombat 11: Ultimate,Nintendo Switch,2020-11-17
+153717,Mortal Kombat 11: Ultimate,Stadia,2020-11-17
+153717,Mortal Kombat 11: Ultimate,PlayStation 5,2020-11-17
+153717,Mortal Kombat 11: Ultimate,Xbox Series,2020-11-17
+193911,Faith,Windows,2022-10-21
+193911,Faith,Nintendo Switch,2022-10-21
+149044,There Is No Game: Wrong Dimension,Windows,2020-08-06
+149044,There Is No Game: Wrong Dimension,Macintosh,2020-08-06
+149044,There Is No Game: Wrong Dimension,iPhone,2020-08-06
+149044,There Is No Game: Wrong Dimension,Android,2020-08-06
+149044,There Is No Game: Wrong Dimension,iPad,2020-08-06
+149044,There Is No Game: Wrong Dimension,Nintendo Switch,2020-08-06
+234576,Antonblast,Windows,2024-12-03
+234576,Antonblast,Nintendo Switch,2024-12-03
+206980,Videoverse,Linux,2023-08-07
+206980,Videoverse,Windows,2023-08-07
+206980,Videoverse,Macintosh,2023-08-07
+232545,Batman: Arkham Shadow,Quest,2024-10-21
+230691,The Plucky Squire,Windows,2024-09-17
+230691,The Plucky Squire,Nintendo Switch,2024-09-17
+230691,The Plucky Squire,PlayStation 5,2024-09-17
+230691,The Plucky Squire,Xbox Series,2024-09-17
+227846,Kunitsu-Gami: Path of the Goddess,Windows,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,Windows Apps,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,PlayStation 4,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,Xbox One,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,PlayStation 5,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,Xbox Series,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,Xbox Cloud Gaming,2024-07-18
+227846,Kunitsu-Gami: Path of the Goddess,Nintendo Switch 2,2024-07-18
+146928,F1 2020,Windows,2020-07-10
+146928,F1 2020,PlayStation 4,2020-07-10
+146928,F1 2020,Xbox One,2020-07-10
+146928,F1 2020,Stadia,2020-07-10
+167763,Walkabout Mini Golf,Windows,2020-09-24
+167763,Walkabout Mini Golf,Quest,2020-09-24
+167763,Walkabout Mini Golf,PlayStation 5,2020-09-24
+205667,Gravity Circuit,Linux,2023-07-13
+205667,Gravity Circuit,Windows,2023-07-13
+205667,Gravity Circuit,Macintosh,2023-07-13
+205667,Gravity Circuit,PlayStation 4,2023-07-13
+205667,Gravity Circuit,Nintendo Switch,2023-07-13
+205667,Gravity Circuit,PlayStation 5,2023-07-13
+229716,Age of Mythology: Retold,Windows,2024-09-04
+229716,Age of Mythology: Retold,Windows Apps,2024-09-04
+229716,Age of Mythology: Retold,PlayStation 5,2024-09-04
+229716,Age of Mythology: Retold,Xbox Series,2024-09-04
+205363,The Legend of Heroes: Trails into Reverie,Windows,2023-07-07
+205363,The Legend of Heroes: Trails into Reverie,PlayStation 4,2023-07-07
+205363,The Legend of Heroes: Trails into Reverie,Nintendo Switch,2023-07-07
+205363,The Legend of Heroes: Trails into Reverie,PlayStation 5,2023-07-07
+242147,Capcom Fighting Collection 2,Windows,2025-05-15
+242147,Capcom Fighting Collection 2,PlayStation 4,2025-05-15
+242147,Capcom Fighting Collection 2,Xbox One,2025-05-15
+242147,Capcom Fighting Collection 2,Nintendo Switch,2025-05-15
+242147,Capcom Fighting Collection 2,Xbox Series,2025-05-15
+208366,Anonymous;Code,Windows,2022-07-27
+208366,Anonymous;Code,PlayStation 4,2022-07-27
+208366,Anonymous;Code,Nintendo Switch,2022-07-27
+243164,Ninja Gaiden 4,Windows,2025-10-20
+243164,Ninja Gaiden 4,Windows Apps,2025-10-20
+243164,Ninja Gaiden 4,PlayStation 5,2025-10-20
+243164,Ninja Gaiden 4,Xbox Series,2025-10-20
+243164,Ninja Gaiden 4,Xbox Cloud Gaming,2025-10-20
+198798,8-Bit Adventures 2,Windows,2023-01-31
+198798,8-Bit Adventures 2,PlayStation 4,2023-01-31
+198798,8-Bit Adventures 2,Xbox One,2023-01-31
+198798,8-Bit Adventures 2,Nintendo Switch,2023-01-31
+198798,8-Bit Adventures 2,PlayStation 5,2023-01-31
+198798,8-Bit Adventures 2,Xbox Series,2023-01-31
+174628,Unpacking,Linux,2021-11-02
+174628,Unpacking,Windows,2021-11-02
+174628,Unpacking,Macintosh,2021-11-02
+174628,Unpacking,iPhone,2021-11-02
+174628,Unpacking,Android,2021-11-02
+174628,Unpacking,iPad,2021-11-02
+174628,Unpacking,Windows Apps,2021-11-02
+174628,Unpacking,PlayStation 4,2021-11-02
+174628,Unpacking,Xbox One,2021-11-02
+174628,Unpacking,Nintendo Switch,2021-11-02
+174628,Unpacking,PlayStation 5,2021-11-02
+174628,Unpacking,Xbox Series,2021-11-02
+174628,Unpacking,Xbox Cloud Gaming,2021-11-02
+153496,Marvel Spider-Man: Miles Morales,Windows,2020-11-12
+153496,Marvel Spider-Man: Miles Morales,PlayStation 4,2020-11-12
+153496,Marvel Spider-Man: Miles Morales,PlayStation 5,2020-11-12
+245535,Battlefield 6,Windows,2025-10-10
+245535,Battlefield 6,PlayStation 5,2025-10-10
+245535,Battlefield 6,Xbox Series,2025-10-10
+231441,Kill Knight,Windows,2024-10-02
+231441,Kill Knight,PlayStation 4,2024-10-02
+231441,Kill Knight,Xbox One,2024-10-02
+231441,Kill Knight,Nintendo Switch,2024-10-02
+231441,Kill Knight,PlayStation 5,2024-10-02
+231441,Kill Knight,Xbox Series,2024-10-02
+166087,Guilty Gear: Strive,Windows,2021-06-11
+166087,Guilty Gear: Strive,Windows Apps,2021-06-11
+166087,Guilty Gear: Strive,PlayStation 4,2021-06-11
+166087,Guilty Gear: Strive,Xbox One,2021-06-11
+166087,Guilty Gear: Strive,PlayStation 5,2021-06-11
+166087,Guilty Gear: Strive,Xbox Series,2021-06-11
+151114,Crash Bandicoot 4: It's About Time,Windows,2020-10-01
+151114,Crash Bandicoot 4: It's About Time,PlayStation 4,2020-10-01
+151114,Crash Bandicoot 4: It's About Time,Xbox One,2020-10-01
+151114,Crash Bandicoot 4: It's About Time,Nintendo Switch,2020-10-01
+151114,Crash Bandicoot 4: It's About Time,PlayStation 5,2020-10-01
+151114,Crash Bandicoot 4: It's About Time,Xbox Series,2020-10-01
+246070,Gradius: Origins,Windows,2025-08-06
+246070,Gradius: Origins,Nintendo Switch,2025-08-06
+246070,Gradius: Origins,PlayStation 5,2025-08-06
+246070,Gradius: Origins,Xbox Series,2025-08-06
+176465,Love 3,Linux,2021-12-06
+176465,Love 3,Windows,2021-12-06
+176465,Love 3,Macintosh,2021-12-06
+176465,Love 3,Android,2021-12-06
+176465,Love 3,Nintendo Switch,2021-12-06
+158495,Nioh 2: Complete Edition,Windows,2021-02-05
+158495,Nioh 2: Complete Edition,PlayStation 4,2021-02-05
+158495,Nioh 2: Complete Edition,PlayStation 5,2021-02-05
+212996,Tevi,Windows,2023-11-30
+212996,Tevi,PlayStation 4,2023-11-30
+212996,Tevi,Xbox One,2023-11-30
+212996,Tevi,Nintendo Switch,2023-11-30
+212996,Tevi,PlayStation 5,2023-11-30
+212996,Tevi,Xbox Series,2023-11-30
+148626,Travellers Rest,Windows,2020-07-28
+234937,Vendetta Forever,Quest,2024-10-24
+234937,Vendetta Forever,PlayStation 5,2024-10-24
+158020,Hrot,Windows,2021-01-29
+168005,Death's Door,Windows,2021-07-20
+168005,Death's Door,iPhone,2021-07-20
+168005,Death's Door,Android,2021-07-20
+168005,Death's Door,iPad,2021-07-20
+168005,Death's Door,Windows Apps,2021-07-20
+168005,Death's Door,PlayStation 4,2021-07-20
+168005,Death's Door,Xbox One,2021-07-20
+168005,Death's Door,Nintendo Switch,2021-07-20
+168005,Death's Door,PlayStation 5,2021-07-20
+168005,Death's Door,Xbox Series,2021-07-20
+202495,Age of Wonders 4,Windows,2023-05-02
+202495,Age of Wonders 4,Windows Apps,2023-05-02
+202495,Age of Wonders 4,PlayStation 5,2023-05-02
+202495,Age of Wonders 4,Xbox Series,2023-05-02
+193237,Bayonetta 3,Nintendo Switch,2022-10-28
+239544,The Darkest Files,Windows,2025-03-25
+239544,The Darkest Files,Macintosh,2025-03-25
+208913,Party Animals,Windows,2023-09-20
+208913,Party Animals,Xbox One,2023-09-20
+208913,Party Animals,Xbox Series,2023-09-20
+243908,Hell Clock,Windows,2025-07-22
+179715,Infernax,Windows,2022-02-14
+179715,Infernax,Windows Apps,2022-02-14
+179715,Infernax,PlayStation 4,2022-02-14
+179715,Infernax,Xbox One,2022-02-14
+179715,Infernax,Nintendo Switch,2022-02-14
+179715,Infernax,Xbox Series,2022-02-14
+165217,30XX,Windows,2021-02-17
+165217,30XX,Nintendo Switch,2021-02-17
+171662,Hyper Light Drifter: Special Edition,Nintendo Switch,2021-01
+207710,Armored Core VI: Fires of Rubicon,Windows,2023-08-24
+207710,Armored Core VI: Fires of Rubicon,PlayStation 4,2023-08-24
+207710,Armored Core VI: Fires of Rubicon,Xbox One,2023-08-24
+207710,Armored Core VI: Fires of Rubicon,PlayStation 5,2023-08-24
+207710,Armored Core VI: Fires of Rubicon,Xbox Series,2023-08-24
+171127,Pathfinder: Wrath of the Righteous,Windows,2021-09-02
+171127,Pathfinder: Wrath of the Righteous,Macintosh,2021-09-02
+171127,Pathfinder: Wrath of the Righteous,PlayStation 4,2021-09-02
+171127,Pathfinder: Wrath of the Righteous,Xbox One,2021-09-02
+171127,Pathfinder: Wrath of the Righteous,PlayStation 5,2021-09-02
+171127,Pathfinder: Wrath of the Righteous,Xbox Series,2021-09-02
+243155,Mortal Kombat: Legacy Kollection,Windows,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,PlayStation 4,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,Xbox One,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,Nintendo Switch,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,PlayStation 5,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,Xbox Series,2025-10-30
+243155,Mortal Kombat: Legacy Kollection,Nintendo Switch 2,2025-10-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,Windows,2022-08-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,PlayStation 4,2022-08-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,Xbox One,2022-08-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,Nintendo Switch,2022-08-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,PlayStation 5,2022-08-30
+189069,Teenage Mutant Ninja Turtles: The Cowabunga Collection,Xbox Series,2022-08-30
+242437,Duck Detective: The Ghost of Glamping,Linux,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Windows,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Macintosh,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Windows Apps,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Xbox One,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Nintendo Switch,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,PlayStation 5,2025-05-22
+242437,Duck Detective: The Ghost of Glamping,Xbox Series,2025-05-22
+202230,Roots of Pacha,Linux,2023-04-25
+202230,Roots of Pacha,Windows,2023-04-25
+202230,Roots of Pacha,Macintosh,2023-04-25
+202230,Roots of Pacha,PlayStation 4,2023-04-25
+202230,Roots of Pacha,Nintendo Switch,2023-04-25
+202230,Roots of Pacha,PlayStation 5,2023-04-25
+211535,Cobalt Core,Windows,2023-11-08
+211535,Cobalt Core,Nintendo Switch,2023-11-08
+158850,League of Legends: Wild Rift,iPhone,2020-10-27
+158850,League of Legends: Wild Rift,Android,2020-10-27
+158850,League of Legends: Wild Rift,iPad,2020-10-27
+196450,Lil Gator Game,Windows,2022-12-14
+196450,Lil Gator Game,PlayStation 4,2022-12-14
+196450,Lil Gator Game,Xbox One,2022-12-14
+196450,Lil Gator Game,Nintendo Switch,2022-12-14
+196450,Lil Gator Game,PlayStation 5,2022-12-14
+196450,Lil Gator Game,Xbox Series,2022-12-14
+221443,Botany Manor,Windows,2024-04-09
+221443,Botany Manor,Windows Apps,2024-04-09
+221443,Botany Manor,PlayStation 4,2024-04-09
+221443,Botany Manor,Xbox One,2024-04-09
+221443,Botany Manor,Nintendo Switch,2024-04-09
+221443,Botany Manor,PlayStation 5,2024-04-09
+221443,Botany Manor,Xbox Series,2024-04-09
+221443,Botany Manor,Xbox Cloud Gaming,2024-04-09
+161834,Resident Evil: Village,Windows,2021-05-07
+161834,Resident Evil: Village,Macintosh,2021-05-07
+161834,Resident Evil: Village,iPhone,2021-05-07
+161834,Resident Evil: Village,iPad,2021-05-07
+161834,Resident Evil: Village,PlayStation 4,2021-05-07
+161834,Resident Evil: Village,Xbox One,2021-05-07
+161834,Resident Evil: Village,Stadia,2021-05-07
+161834,Resident Evil: Village,PlayStation 5,2021-05-07
+161834,Resident Evil: Village,Xbox Series,2021-05-07
+178684,Pokémon Legends: Arceus,Nintendo Switch,2022-01-28
+231342,Crypt Custodian,Windows,2024-08-27
+231342,Crypt Custodian,PlayStation 4,2024-08-27
+231342,Crypt Custodian,Xbox One,2024-08-27
+231342,Crypt Custodian,Nintendo Switch,2024-08-27
+231342,Crypt Custodian,PlayStation 5,2024-08-27
+231342,Crypt Custodian,Xbox Series,2024-08-27
+167678,F1 2021,Windows,2021-07-16
+167678,F1 2021,PlayStation 4,2021-07-16
+167678,F1 2021,Xbox One,2021-07-16
+167678,F1 2021,PlayStation 5,2021-07-16
+167678,F1 2021,Xbox Series,2021-07-16
+223633,Crow Country,Windows,2024-05-09
+223633,Crow Country,PlayStation 4,2024-05-09
+223633,Crow Country,Nintendo Switch,2024-05-09
+223633,Crow Country,PlayStation 5,2024-05-09
+223633,Crow Country,Xbox Series,2024-05-09
+235851,Wanderstop,Windows,2025-03-11
+235851,Wanderstop,PlayStation 5,2025-03-11
+235851,Wanderstop,Xbox Series,2025-03-11
+232366,Sonic X Shadow Generations,Windows,2024-10-25
+232366,Sonic X Shadow Generations,PlayStation 4,2024-10-25
+232366,Sonic X Shadow Generations,Xbox One,2024-10-25
+232366,Sonic X Shadow Generations,Nintendo Switch,2024-10-25
+232366,Sonic X Shadow Generations,PlayStation 5,2024-10-25
+232366,Sonic X Shadow Generations,Xbox Series,2024-10-25
+232366,Sonic X Shadow Generations,Nintendo Switch 2,2024-10-25
+172396,Tails of Iron,Windows,2021-09-16
+172396,Tails of Iron,PlayStation 4,2021-09-16
+172396,Tails of Iron,Xbox One,2021-09-16
+172396,Tails of Iron,Nintendo Switch,2021-09-16
+172396,Tails of Iron,PlayStation 5,2021-09-16
+172396,Tails of Iron,Xbox Series,2021-09-16
+178788,Vampire Survivors,Windows,2021-12-17
+178788,Vampire Survivors,Macintosh,2021-12-17
+178788,Vampire Survivors,iPhone,2021-12-17
+178788,Vampire Survivors,Android,2021-12-17
+178788,Vampire Survivors,iPad,2021-12-17
+178788,Vampire Survivors,Windows Apps,2021-12-17
+178788,Vampire Survivors,PlayStation 4,2021-12-17
+178788,Vampire Survivors,Xbox One,2021-12-17
+178788,Vampire Survivors,Nintendo Switch,2021-12-17
+178788,Vampire Survivors,PlayStation 5,2021-12-17
+178788,Vampire Survivors,Xbox Series,2021-12-17
+152571,Chicken Police: Paint it Red!,Windows,2020-11-04
+152571,Chicken Police: Paint it Red!,iPhone,2020-11-04
+152571,Chicken Police: Paint it Red!,Android,2020-11-04
+152571,Chicken Police: Paint it Red!,iPad,2020-11-04
+152571,Chicken Police: Paint it Red!,PlayStation 4,2020-11-04
+152571,Chicken Police: Paint it Red!,Xbox One,2020-11-04
+152571,Chicken Police: Paint it Red!,Nintendo Switch,2020-11-04
+152571,Chicken Police: Paint it Red!,Stadia,2020-11-04
+228917,SteamWorld Heist II,Windows,2024-08-08
+228917,SteamWorld Heist II,Windows Apps,2024-08-08
+228917,SteamWorld Heist II,PlayStation 4,2024-08-08
+228917,SteamWorld Heist II,Xbox One,2024-08-08
+228917,SteamWorld Heist II,Nintendo Switch,2024-08-08
+228917,SteamWorld Heist II,PlayStation 5,2024-08-08
+228917,SteamWorld Heist II,Xbox Series,2024-08-08
+153160,Prodeus,Windows,2020-11-09
+153160,Prodeus,Macintosh,2020-11-09
+153160,Prodeus,Windows Apps,2020-11-09
+153160,Prodeus,PlayStation 4,2020-11-09
+153160,Prodeus,Xbox One,2020-11-09
+153160,Prodeus,Nintendo Switch,2020-11-09
+153160,Prodeus,PlayStation 5,2020-11-09
+153160,Prodeus,Xbox Series,2020-11-09
+142650,Bayonetta Vanquish: 10th Anniversary Bundle,PlayStation 4,2020-02-18
+142650,Bayonetta Vanquish: 10th Anniversary Bundle,Xbox One,2020-02-18
+193717,Signalis,Windows,2022-10-27
+193717,Signalis,Windows Apps,2022-10-27
+193717,Signalis,PlayStation 4,2022-10-27
+193717,Signalis,Xbox One,2022-10-27
+193717,Signalis,Nintendo Switch,2022-10-27
+193717,Signalis,Xbox Series,2022-10-27
+193717,Signalis,Xbox Cloud Gaming,2022-10-27
+157560,Everspace 2,Windows,2021-01-18
+157560,Everspace 2,Macintosh,2021-01-18
+157560,Everspace 2,Windows Apps,2021-01-18
+157560,Everspace 2,PlayStation 5,2021-01-18
+157560,Everspace 2,Xbox Series,2021-01-18
+157560,Everspace 2,Xbox Cloud Gaming,2021-01-18
+218151,Solium Infernum,Windows,2024-02-22
+237734,Like a Dragon: Pirate Yakuza in Hawaii,Windows,2025-02-20
+237734,Like a Dragon: Pirate Yakuza in Hawaii,Windows Apps,2025-02-20
+237734,Like a Dragon: Pirate Yakuza in Hawaii,PlayStation 4,2025-02-20
+237734,Like a Dragon: Pirate Yakuza in Hawaii,Xbox One,2025-02-20
+237734,Like a Dragon: Pirate Yakuza in Hawaii,PlayStation 5,2025-02-20
+237734,Like a Dragon: Pirate Yakuza in Hawaii,Xbox Series,2025-02-20
+208808,Lies of P,Windows,2023-09-18
+208808,Lies of P,Macintosh,2023-09-18
+208808,Lies of P,Windows Apps,2023-09-18
+208808,Lies of P,PlayStation 4,2023-09-18
+208808,Lies of P,Xbox One,2023-09-18
+208808,Lies of P,PlayStation 5,2023-09-18
+208808,Lies of P,Xbox Series,2023-09-18
+179410,Sifu,Windows,2022-02-08
+179410,Sifu,Windows Apps,2022-02-08
+179410,Sifu,PlayStation 4,2022-02-08
+179410,Sifu,Xbox One,2022-02-08
+179410,Sifu,Nintendo Switch,2022-02-08
+179410,Sifu,PlayStation 5,2022-02-08
+179410,Sifu,Xbox Series,2022-02-08
+153390,Devil May Cry 5: Special Edition,PlayStation 5,2020-11-10
+153390,Devil May Cry 5: Special Edition,Xbox Series,2020-11-10
+210895,Ghostrunner II,Windows,2023-10-26
+210895,Ghostrunner II,PlayStation 5,2023-10-26
+210895,Ghostrunner II,Xbox Series,2023-10-26
+159794,Everhood,Windows,2021-03-04
+159794,Everhood,Nintendo Switch,2021-03-04
+222705,Stellar Blade,Windows,2024-04-25
+222705,Stellar Blade,PlayStation 5,2024-04-25
+180427,Atelier Sophie 2: The Alchemist of the Mysterious Dream,Windows,2022-02-24
+180427,Atelier Sophie 2: The Alchemist of the Mysterious Dream,PlayStation 4,2022-02-24
+180427,Atelier Sophie 2: The Alchemist of the Mysterious Dream,Nintendo Switch,2022-02-24
+182643,Moss: Book II,Windows,2022-03-31
+182643,Moss: Book II,PlayStation 4,2022-03-31
+182643,Moss: Book II,PlayStation 5,2022-03-31
+175288,Final Fantasy IV,Windows,2021-09-08
+175288,Final Fantasy IV,iPhone,2021-09-08
+175288,Final Fantasy IV,Android,2021-09-08
+175288,Final Fantasy IV,iPad,2021-09-08
+175288,Final Fantasy IV,Windows Apps,2021-09-08
+175288,Final Fantasy IV,PlayStation 4,2021-09-08
+175288,Final Fantasy IV,Nintendo Switch,2021-09-08
+175288,Final Fantasy IV,Xbox Series,2021-09-08
+175288,Final Fantasy IV,Xbox Cloud Gaming,2021-09-08
+224313,Senua's Saga: Hellblade II,Windows,2024-05-21
+224313,Senua's Saga: Hellblade II,Windows Apps,2024-05-21
+224313,Senua's Saga: Hellblade II,Xbox Series,2024-05-21
+230777,Broken Sword: Shadow of the Templars - Reforged,Linux,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,Windows,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,Macintosh,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,PlayStation 4,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,Xbox One,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,Nintendo Switch,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,PlayStation 5,2024-09-19
+230777,Broken Sword: Shadow of the Templars - Reforged,Xbox Series,2024-09-19
+217251,Helldivers II,Windows,2024-02-08
+217251,Helldivers II,PlayStation 5,2024-02-08
+217251,Helldivers II,Xbox Series,2024-02-08
+174766,Cupid Parasite,Nintendo Switch,2020-08-20
+141682,Not for Broadcast,Windows,2020-01-30
+141682,Not for Broadcast,PlayStation 4,2020-01-30
+141682,Not for Broadcast,Xbox One,2020-01-30
+141682,Not for Broadcast,Xbox Series,2020-01-30
+162530,The Darkside Detective: A Fumble in the Dark,Linux,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Windows,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Macintosh,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,iPhone,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Android,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,iPad,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Windows Apps,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,PlayStation 4,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Xbox One,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Nintendo Switch,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Stadia,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,PlayStation 5,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Xbox Series,2021-04-15
+162530,The Darkside Detective: A Fumble in the Dark,Atari VCS,2021-04-15
+188012,Live A Live,Windows,2022-07-22
+188012,Live A Live,PlayStation 4,2022-07-22
+188012,Live A Live,Nintendo Switch,2022-07-22
+188012,Live A Live,PlayStation 5,2022-07-22
+236737,Dynasty Warriors: Origins,Windows,2025-01-16
+236737,Dynasty Warriors: Origins,PlayStation 5,2025-01-16
+236737,Dynasty Warriors: Origins,Xbox Series,2025-01-16
+228860,Cat Quest III,Windows,2024-08-08
+228860,Cat Quest III,PlayStation 4,2024-08-08
+228860,Cat Quest III,Xbox One,2024-08-08
+228860,Cat Quest III,Nintendo Switch,2024-08-08
+228860,Cat Quest III,PlayStation 5,2024-08-08
+228860,Cat Quest III,Xbox Series,2024-08-08
+168138,Fuga: Melodies of Steel,Windows,2021-07-28
+168138,Fuga: Melodies of Steel,Windows Apps,2021-07-28
+168138,Fuga: Melodies of Steel,PlayStation 4,2021-07-28
+168138,Fuga: Melodies of Steel,Xbox One,2021-07-28
+168138,Fuga: Melodies of Steel,Nintendo Switch,2021-07-28
+168138,Fuga: Melodies of Steel,PlayStation 5,2021-07-28
+168138,Fuga: Melodies of Steel,Xbox Series,2021-07-28
+168138,Fuga: Melodies of Steel,Xbox Cloud Gaming,2021-07-28
+186986,Capcom Fighting Collection,Windows,2022-06-23
+186986,Capcom Fighting Collection,PlayStation 4,2022-06-23
+186986,Capcom Fighting Collection,Xbox One,2022-06-23
+186986,Capcom Fighting Collection,Nintendo Switch,2022-06-23
+186986,Capcom Fighting Collection,Xbox Series,2022-06-23
+246591,OFF,Windows,2025-08-15
+246591,OFF,Nintendo Switch,2025-08-15
+208859,Mortal Kombat 1,Windows,2023-09-19
+208859,Mortal Kombat 1,Nintendo Switch,2023-09-19
+208859,Mortal Kombat 1,PlayStation 5,2023-09-19
+208859,Mortal Kombat 1,Xbox Series,2023-09-19
+166086,Chicory: A Colorful Tale,Windows,2021-06-10
+166086,Chicory: A Colorful Tale,Macintosh,2021-06-10
+166086,Chicory: A Colorful Tale,Windows Apps,2021-06-10
+166086,Chicory: A Colorful Tale,PlayStation 4,2021-06-10
+166086,Chicory: A Colorful Tale,Xbox One,2021-06-10
+166086,Chicory: A Colorful Tale,Nintendo Switch,2021-06-10
+166086,Chicory: A Colorful Tale,PlayStation 5,2021-06-10
+166086,Chicory: A Colorful Tale,Xbox Series,2021-06-10
+239221,MLB The Show 25,Nintendo Switch,2025-03-18
+239221,MLB The Show 25,PlayStation 5,2025-03-18
+239221,MLB The Show 25,Xbox Series,2025-03-18
+201161,WWE 2K23,Windows,2023-03-17
+201161,WWE 2K23,PlayStation 4,2023-03-17
+201161,WWE 2K23,Xbox One,2023-03-17
+201161,WWE 2K23,PlayStation 5,2023-03-17
+201161,WWE 2K23,Xbox Series,2023-03-17
+179781,KOF XV: The King of Fighters,Windows,2022-02-17
+179781,KOF XV: The King of Fighters,Windows Apps,2022-02-17
+179781,KOF XV: The King of Fighters,PlayStation 4,2022-02-17
+179781,KOF XV: The King of Fighters,PlayStation 5,2022-02-17
+179781,KOF XV: The King of Fighters,Xbox Series,2022-02-17
+213874,Granblue Fantasy Versus: Rising,Windows,2023-12-14
+213874,Granblue Fantasy Versus: Rising,PlayStation 4,2023-12-14
+213874,Granblue Fantasy Versus: Rising,PlayStation 5,2023-12-14
+152464,Shin Megami Tensei III: Nocturne - HD Remaster,Windows,2020-10-28
+152464,Shin Megami Tensei III: Nocturne - HD Remaster,PlayStation 4,2020-10-28
+152464,Shin Megami Tensei III: Nocturne - HD Remaster,Nintendo Switch,2020-10-28
+233621,Prim,Linux,2024-10-24
+233621,Prim,Windows,2024-10-24
+233621,Prim,Macintosh,2024-10-24
+214806,Bakeru,Windows,2023-11-30
+214806,Bakeru,Nintendo Switch,2023-11-30
+206848,Thronefall,Windows,2023-08-02
+206848,Thronefall,Macintosh,2023-08-02
+206848,Thronefall,iPhone,2023-08-02
+206848,Thronefall,Android,2023-08-02
+206848,Thronefall,iPad,2023-08-02
+206848,Thronefall,Nintendo Switch,2023-08-02
+189361,Lost in Play,Windows,2022-08-10
+189361,Lost in Play,iPhone,2022-08-10
+189361,Lost in Play,Android,2022-08-10
+189361,Lost in Play,iPad,2022-08-10
+189361,Lost in Play,PlayStation 4,2022-08-10
+189361,Lost in Play,Nintendo Switch,2022-08-10
+189361,Lost in Play,PlayStation 5,2022-08-10

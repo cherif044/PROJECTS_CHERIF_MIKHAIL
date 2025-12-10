@@ -1,0 +1,508 @@
+moby_id,platform,Business Model,min_os,supported_system,min_ram,supported_drivers,media_type,gamepads_Supported
+150689,Macintosh+,Commercial,macOS 10.15.6,x64 (64-bit),8 GB,Vulkan,Download,DualShock 4; Xbox One/Series Wireless Controller
+150689,Windows+,Commercial,Windows 7 SP1,x64 (64-bit),8 GB,Direct3D; Vulkan,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+150689,Xbox Series+,Commercial,,,,,Download,
+203119,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+230088,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+199460,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+223472,Macintosh+,Commercial,macOS 12 (Monterey),x64 (64-bit),,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+223472,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+174989,Windows+,Commercial,Windows 10,x64 (64-bit),12 GB,Direct3D,Download,Xbox One/Series Wireless Controller
+174989,Xbox One+,Commercial,,,,,Download,
+174989,Xbox Series+,Commercial,,,,,Download,
+231733,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+241065,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,DualSense Controller; Xbox One/Series Wireless Controller
+195074,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+195074,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+200900,PlayStation 5+,Commercial,,,,,Blu-Ray Disc; Download,DualSense Controller
+200900,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+246839,Linux+,Commercial,,x64 (64-bit),4 GB,,Download,
+246839,Macintosh+,Commercial,macOS 11.0 (Big Sur),x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+246839,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+238381,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+217980,Macintosh+,Commercial,macOS 11.0 (Big Sur),x64 (64-bit),,OpenGL,Download,DualSense Controller; Xbox One/Series Wireless Controller
+217980,Windows+,Commercial,Windows 7,x64 (64-bit),,OpenGL,Download,DualSense Controller; Xbox One/Series Wireless Controller
+216560,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+210462,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+203910,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+203910,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+203910,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+203910,Xbox Series+,Commercial,,,,,Download; UHD Blu-ray Disc,
+218917,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+170577,Nintendo Switch+,,,,,,Download; Game Card,
+170577,PlayStation 4+,,,,,,Blu-Ray Disc; Download,
+245083,Nintendo Switch 2+,Commercial,,,,,Download; Game Card,
+193990,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+240176,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualSense Controller; Xbox One/Series Wireless Controller
+170037,Linux+,Commercial,,x64 (64-bit),8 GB,,Download,
+170037,Macintosh+,Commercial,macOS 10.12 (Sierra),x64 (64-bit),8 GB,,Download,
+170037,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,Direct3D,Download,
+236887,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+216563,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+216563,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+143668,Windows+,Commercial,Windows 10,,,,Download,
+161320,Nintendo Switch+,Commercial,,,,,Download,
+161320,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+161320,Windows+,Commercial,Windows 8.1,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+141485,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+169624,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+169624,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+238122,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+146798,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+188601,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+172841,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+149407,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+149407,Windows Apps+,Commercial,Windows 10,x64 (64-bit),8 GB,,,
+142015,Nintendo Switch+,Commercial,,,,,Download,
+142015,Windows+,Commercial,Windows 10,,8 GB,Pixel Shader 5.1; Vertex Shader 5.1,Download,
+142015,Windows Apps+,Commercial,Windows 10,,8 GB,,,
+142015,Xbox One+,Commercial,,,,,Download,
+230048,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+190774,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+210676,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+198497,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+195765,Linux+,Commercial,,,6 GB,,Download,
+195765,Macintosh+,Commercial,macOS 10.15 (Catalina),,4 GB,,Download,
+195765,Nintendo Switch+,Commercial,,,,,Download,
+195765,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+195765,Windows+,Commercial,Windows 7,,4 GB,,Download,
+195765,Windows Apps+,Commercial,Windows 10,x64 (64-bit),4 GB,,,
+195765,Xbox One+,Commercial,,,,,Download,
+195765,Xbox Series+,Commercial,,,,,Download,
+210733,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+210733,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+194057,Macintosh+,Commercial,macOS 10.15 (Catalina),x64 (64-bit),8 GB,,Download,
+194057,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,,Download,
+225958,Windows+,Commercial,Windows 10,,6 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+176849,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+176849,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+176849,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+230810,Windows+,Commercial,Windows 10,x64 (64-bit),,,Download,DualSense Controller; Xbox One/Series Wireless Controller
+153477,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+245849,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+248605,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+198508,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,
+210927,Windows+,Commercial,Windows 10,,16 GB,,Download,
+207900,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+207900,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+207900,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,Download,
+207900,Windows Apps+,Commercial,Windows 10,x64 (64-bit),4 GB,,,
+216878,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+172725,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+172725,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+172725,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+172725,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+219115,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+158999,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+216448,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+141533,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+150140,Xbox One+,Commercial,,,,,Download,
+166282,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+166282,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+211252,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+216014,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+216014,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+216014,Windows+,Commercial,Windows 10,x64 (64-bit),2 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+216014,Xbox One+,Commercial,,,,,Blu-Ray Disc,
+216014,Xbox Series+,Commercial,,,,,Blu-Ray Disc,
+143581,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+143581,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+143581,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,Vulkan,Download,
+143581,Xbox One+,Commercial,,,,,Download,
+194426,Windows+,Commercial,Windows 7 SP1,x64 (64-bit),4 GB,,Download,
+231515,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+231515,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+199777,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+199777,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+196112,Windows+,Commercial,Windows XP SP3,x64 (64-bit),4 GB,,Download,
+195171,Nintendo Switch+,Commercial,,,,,Download,
+195171,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+195171,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+195171,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+195171,Xbox One+,Commercial,,,,,Download,
+195171,Xbox Series+,Commercial,,,,,Download,
+178917,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+234173,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+236760,Macintosh+,Commercial,Mac OS X 10.10.5,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+236760,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+193002,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+173968,Windows+,Commercial,Windows 7,,4 GB,,,
+173968,Windows Apps+,Commercial,Windows 10,x64 (64-bit),4 GB,,,
+173968,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+173968,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+223635,Nintendo Switch+,Commercial,,,,,Download,
+223635,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+163431,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+181802,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+209564,Nintendo Switch+,Commercial,,,,,Download,
+209564,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+209564,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+209564,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,
+209564,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+209564,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+209564,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+146988,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+242779,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+232022,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualSense Controller; Xbox One/Series Wireless Controller
+145442,Macintosh+,Commercial,,,,,Download,
+145442,Nintendo Switch+,Commercial,,,,,Download,
+145442,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+145442,Windows+,Commercial,Windows 7,x86 (32-bit),2 GB,,Download,
+145442,Xbox One+,Commercial,,,,,Download,
+180087,Nintendo Switch+,Commercial,,,,,Download,
+180087,PlayStation 4+,Commercial,,,,,Download,
+180087,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+145915,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+240340,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+186311,Windows+,Commercial,,x64 (64-bit),6 GB,,Download,
+224086,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+230832,Macintosh+,Commercial,macOS 10.14.5,x64 (64-bit),8 GB,,Download,
+230832,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,Xbox One/Series Wireless Controller
+169609,Nintendo Switch+,Commercial,,,,,Download,
+169609,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+169609,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+169609,Windows Apps+,Commercial,Windows 10,x64 (64-bit),8 GB,,,
+169609,Xbox One+,Commercial,,,,,Download,
+169609,Xbox Series+,Commercial,,,,,Download,
+164405,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+164405,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+164405,Xbox Series+,Commercial,,,,,Blu-Ray Disc; Download,Xbox One/Series Wireless Controller
+187183,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+160124,Nintendo Switch+,Commercial,,,,,Download,
+160124,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+153150,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+153150,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+153150,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,,Xbox One/Series Wireless Controller
+180080,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+157629,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+157629,Windows+,Commercial,Windows 10,,8 GB,,Download,
+241974,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,Xbox One/Series Wireless Controller
+143125,Android+,Freeware / Free-to-play / Public Domain,Android 5.1,,,,Download,
+143125,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+143125,iPad+,Freeware / Free-to-play / Public Domain,iOS 11.0,,,,Download,
+143125,iPhone+,Freeware / Free-to-play / Public Domain,iOS 11.0,,,,Download,
+228659,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+205088,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+142906,Linux+,Commercial,,x64 (64-bit),4 GB,,Download,
+142906,Macintosh+,Commercial,Mac OS X 10.9 (Mavericks),x64 (64-bit),4 GB,,DVD-ROM,DualShock 4; Xbox One/Series Wireless Controller
+142906,Stadia+,Commercial,,,,,,
+142906,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,Download; DVD-ROM,DualShock 4; Xbox One/Series Wireless Controller
+153499,PlayStation 5+,Freeware / Free-to-play / Public Domain,,,,,Download,DualSense Controller
+174498,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+163363,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+149534,Linux+,Commercial,,x64 (64-bit),4 GB,,Download,
+149534,Macintosh+,Commercial,macOS 10.14 (Mojave),x64 (64-bit),12 GB,,Download,
+149534,Windows+,Commercial,Windows 8.1,x64 (64-bit),6 GB,,Download; DVD-ROM,
+230414,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+243163,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+149441,Nintendo Switch+,Commercial,,,,,Download,
+149441,Windows+,Commercial,Windows 7,,8 GB,,Download,
+231129,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+238308,Linux+,Commercial,,x64 (64-bit),6 GB,,Download,
+238308,Macintosh+,Commercial,macOS 11.0 (Big Sur),x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+238308,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+220011,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+220011,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+243161,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+190202,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+229435,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+211718,Windows+,Commercial,Windows 7 with Cumulative Update,,,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+193748,Linux+,Commercial,,,8 GB,,Download,
+193748,Macintosh+,Commercial,macOS 10.15 (Catalina),,8 GB,,Download,
+193748,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+191783,Macintosh+,Commercial,macOS 10.13 (High Sierra),x64 (64-bit),8 GB,,Download,
+191783,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+207696,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+199652,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+199652,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+143045,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+143045,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+143045,PlayStation 5+,Commercial,,,,,Blu-Ray Disc; Download,DualSense Controller
+143045,Windows+,Commercial,Windows 7,,2 GB,,Download,
+143045,Xbox One+,Commercial,,,,,Download,
+143045,Xbox Series+,Commercial,,,,,Download,
+204085,PlayStation 4+,Commercial,,,,,Download,
+204085,PlayStation 5+,Commercial,,,,,Download,
+204085,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+204085,Xbox One+,Commercial,,,,,Download,
+204085,Xbox Series+,Commercial,,,,,Download,
+207099,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D; Vulkan,Download,
+243602,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualSense Controller; Xbox One/Series Wireless Controller
+233313,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+233313,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+233313,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+233313,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+233313,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+232002,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+168299,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+168299,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+168299,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,
+141439,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+204724,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+204724,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+204724,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+181834,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+181834,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+181834,Windows Apps+,Commercial,Windows 10,x64 (64-bit),4 GB,,,
+181834,Xbox One+,Commercial,,,,,Download,
+181834,Xbox Series+,Commercial,,,,,Download,
+246692,Windows+,Commercial,Windows 10,x64 (64-bit),12 GB,Direct3D,Download,DualSense Controller; Xbox One/Series Wireless Controller
+172699,Nintendo Switch+,Commercial,,,,,Download,
+161794,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+161794,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+161794,Xbox One+,Commercial,,,,,Blu-Ray Disc; Download,
+161794,Xbox Series+,Commercial,,,,,Download,
+248025,Windows+,Commercial,Windows 11,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+172770,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+161717,Android+,Freeware / Free-to-play / Public Domain,Android 8.0 (Oreo),,,,Download,
+161717,Windows+,Commercial,Windows 7,,8 GB,,Download,
+206244,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+232677,Windows+,Commercial,Windows 10,x64 (64-bit),,Pixel Shader 4.0; Vertex Shader 4.0,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+230077,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+182452,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+182452,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+182452,PlayStation 5+,Commercial,,,,,Blu-Ray Disc; Download,DualSense Controller
+182452,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+182452,Xbox One+,Commercial,,,,,Blu-Ray Disc; Download,Xbox One/Series Wireless Controller
+182452,Xbox Series+,Commercial,,,,,Blu-Ray Disc; Download,Xbox One/Series Wireless Controller
+181370,Macintosh+,Commercial,macOS 10.14 (Mojave),,8 GB,,Download,
+181370,Nintendo Switch+,Commercial,,,,,Download,
+181370,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+181370,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+181370,Windows+,Commercial,Windows 10,,8 GB,,Download,
+181370,Windows Apps+,Commercial,,x64 (64-bit),,,,
+181370,Xbox One+,Commercial,,,,,Download,
+181370,Xbox Series+,Commercial,,,,,Download,
+168298,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,Xbox 360 Controller; Xbox One/Series Wireless Controller
+155960,Windows Apps+,Commercial,Windows 10,x64 (64-bit),2 GB,,,
+155960,Xbox One+,Commercial,,,,,Download,
+155960,Xbox Series+,Commercial,,,,,Download,
+191506,Windows+,Commercial,Windows 7,,2 GB,,Download,
+166843,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+166843,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+166843,PlayStation 5+,Commercial,,,,,Download,
+166843,Xbox One+,Commercial,,,,,Download,
+166843,Xbox Series+,Commercial,,,,,Download,
+207330,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,,,Xbox One/Series Wireless Controller
+199774,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,,Xbox One/Series Wireless Controller
+212038,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+208271,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+168414,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+168414,Stadia+,Commercial,,,,,,
+146084,Windows+,Commercial,Windows 8.1,x64 (64-bit),4 GB,,Download,
+152363,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+171514,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+194368,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,Download,
+230234,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+195971,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,
+193614,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,
+193614,Windows Apps+,Commercial,Windows 10,x64 (64-bit),16 GB,,,
+193614,Xbox Series+,Commercial,,,,,Download,
+201867,PlayStation 5+,Commercial,,,,,Download,
+201867,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+201867,Xbox Series+,Commercial,,,,,Blu-Ray Disc; Download,Xbox One/Series Wireless Controller
+188150,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+188150,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+188150,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+209731,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+231762,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+188798,Windows+,Commercial,Windows 7,,4 GB,,Download,
+220049,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+216472,Macintosh+,Commercial,macOS 10.15 (Catalina),,8 GB,,Download,
+216472,Nintendo Switch+,Commercial,,,,,Download,
+216472,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+216472,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+216472,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+216472,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+216472,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+164830,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+164830,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,,Xbox One/Series Wireless Controller
+164830,Xbox One+,Commercial,,,,,Download,
+164830,Xbox Series+,Commercial,,,,,Download,
+149844,Linux+,Commercial,,x64 (64-bit),8 GB,,Download,
+149844,Macintosh+,Commercial,macOS 11.1,x64 (64-bit),8 GB,,Download,
+149844,Windows+,Commercial,Windows 10,x86 (32-bit); x64 (64-bit),8 GB,Direct3D,Download,
+149844,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+157880,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+157880,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+193361,Macintosh+,Commercial,macOS 10.13 (High Sierra),,4 GB,,Download,
+193361,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,,
+146501,Linux+,Commercial,,x64 (64-bit),8 GB,,Download,
+146501,Macintosh+,Commercial,macOS 10.13 (High Sierra),x64 (64-bit),8 GB,,Download,
+146501,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,Direct3D,Download; DVD-ROM,
+184776,Windows+,Commercial,Windows 10,x64 (64-bit),12 GB,,,
+141524,PlayStation 4+,Commercial,,,,,Download,
+203194,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,
+201121,Android+,Commercial,Android 7.0 (Nougat),,,,Download,
+201121,Nintendo Switch+,Commercial,,,,,Download,
+201121,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+201121,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+201121,Windows+,Commercial,Windows 10,,4 GB,,Download,
+201121,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+201121,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+150805,Windows+,Commercial,Windows 10,x64 (64-bit),6 GB,,Download,Xbox One/Series Wireless Controller
+233642,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+153717,Nintendo Switch+,Commercial,,,,,Download,
+153717,PlayStation 4+,Commercial,,,,,Download,
+153717,PlayStation 5+,Commercial,,,,,Download,
+153717,Stadia+,Commercial,,,,,,
+153717,Windows+,Commercial,,,,,Download,
+153717,Xbox One+,Commercial,,,,,Download,
+153717,Xbox Series+,Commercial,,,,,Download,
+193911,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+149044,Android+,Commercial,Android 5.1,,,,Download,
+149044,Macintosh+,Commercial,macOS 10.12 (Sierra),x64 (64-bit),4 GB,,Download,
+149044,Nintendo Switch+,Commercial,,,,,Download,
+149044,Windows+,Commercial,Windows 7 SP1,x86 (32-bit); x64 (64-bit),4 GB,,Download,
+149044,iPad+,Commercial,iOS 10.0,,,,Download,
+149044,iPhone+,Commercial,iOS 10.0,,,,Download,
+234576,Windows+,Commercial,Windows 8,,2 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+232545,Quest+,Commercial,,,,,,
+230691,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+227846,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+227846,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+227846,Windows Apps+,Commercial,Windows 10,x64 (64-bit),8 GB,,,
+227846,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+227846,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+146928,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download; DVD-ROM,
+229716,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,Xbox One/Series Wireless Controller
+242147,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+208366,Nintendo Switch+,Commercial,,,,,Download,
+208366,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+208366,Windows+,Commercial,Windows 10,x64 (64-bit),1 GB,,Download,
+243164,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+174628,Android+,Commercial,Android 6.0 (Marshmallow),,,,Download,
+174628,Linux+,Commercial,,x64 (64-bit),,,Download,
+174628,Macintosh+,Commercial,macOS 10.13 (High Sierra),x64 (64-bit),,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+174628,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+174628,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+174628,PlayStation 5+,Commercial,,,,,Blu-Ray Disc; Download,DualSense Controller
+174628,Windows+,Commercial,Windows 7 SP1,x64 (64-bit),,Pixel Shader 4.0; Vertex Shader 4.0,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+174628,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+174628,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+174628,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+174628,iPad+,Commercial,iPadOS 14,,,,Download,
+174628,iPhone+,Commercial,iOS 14,,,,Download,
+153496,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+153496,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+153496,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+245535,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+166087,Windows+,Commercial,Windows 8,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+151114,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+151114,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+151114,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+212996,Windows+,Commercial,Windows 7,,4 MB,,Download,
+234937,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+234937,Quest+,Commercial,,,,,,
+158020,Windows+,Commercial,Windows XP,x86 (32-bit),2 GB,,Download,
+168005,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+168005,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+202495,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,Xbox One/Series Wireless Controller
+208913,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+243908,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+179715,Nintendo Switch+,Commercial,,,,,Download,
+179715,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+179715,Windows+,Commercial,Windows 7,,4 GB,,Download,
+179715,Windows Apps+,Commercial,Windows 10,x64 (64-bit),4 GB,,,
+179715,Xbox One+,Commercial,,,,,Download,
+179715,Xbox Series+,Commercial,,,,,Download,
+171662,Nintendo Switch+,Commercial,,,,,Game Card,
+207710,Windows+,Commercial,Windows 10,x64 (64-bit),12 GB,,Download,Xbox One/Series Wireless Controller
+171127,Macintosh+,Commercial,Mac OS X 10.11 (El Capitan),x64 (64-bit),6 GB,,Download,
+171127,Windows+,Commercial,Windows 7,x64 (64-bit),6 GB,,Download,
+243155,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+189069,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+189069,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+189069,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+189069,Xbox One+,Commercial,,,,,Blu-Ray Disc; Download,
+242437,Windows+,Commercial,Windows 7 SP1,x64 (64-bit),2 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+202230,Linux+,Commercial,,,,,Download,
+202230,Nintendo Switch+,Commercial,,,,,Download,
+202230,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+202230,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+211535,Nintendo Switch+,Commercial,,,,,Download,
+196450,Windows+,Commercial,Windows 7,x64 (64-bit),4 GB,,Download,Xbox One/Series Wireless Controller
+221443,Nintendo Switch+,Commercial,,,,,Download,
+221443,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; Xbox One/Series Wireless Controller
+221443,Windows Apps+,Commercial,Windows 10,x64 (64-bit),,,,
+221443,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+221443,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+161834,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+161834,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+161834,Stadia+,Commercial,,,,,,
+161834,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,Xbox One/Series Wireless Controller
+161834,Xbox One+,Commercial,,,,,Blu-Ray Disc; Download,
+161834,Xbox Series+,Commercial,,,,,Blu-Ray Disc; Download,
+231342,Windows+,Commercial,Windows 7,,4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+223633,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+235851,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+232366,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+172396,Windows+,Commercial,Windows 10,,4 GB,,Download,
+178788,Android+,Freeware / Free-to-play / Public Domain,Android 7.0 (Nougat),,,,,
+178788,Macintosh+,Commercial,,x64 (64-bit),,,,
+178788,Windows+,Commercial,Windows 10,x64 (64-bit),1 GB,,Download,Xbox One/Series Wireless Controller
+178788,iPad+,Freeware / Free-to-play / Public Domain,iOS 11.0,,,,,
+178788,iPhone+,Freeware / Free-to-play / Public Domain,iOS 11.0,,,,,
+152571,Stadia+,Commercial,,,,,,
+228917,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+153160,Windows+,Commercial,Windows 7,,2 GB,,Download,
+142650,PlayStation 4+,Commercial,,,,,Download,
+142650,Xbox One+,Commercial,,,,,Download,
+193717,Nintendo Switch+,Commercial,,,,,Download,
+193717,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+193717,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,Direct3D,Download,
+193717,Windows Apps+,Commercial,,,,,,
+193717,Xbox One+,Commercial,,,,,Download,
+193717,Xbox Series+,Commercial,,,,,Download,
+157560,Macintosh+,Commercial,,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+157560,PlayStation 5+,Commercial,,,,,Download,
+157560,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+157560,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+218151,Windows+,,,,12 GB,,,
+237734,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+208808,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+179410,Nintendo Switch+,Commercial,,,,,Download,
+179410,PlayStation 5+,Commercial,,,,,Download,DualSense Controller
+179410,Windows Apps+,Commercial,Windows 10,x64 (64-bit),8 GB,,,
+179410,Xbox One+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+179410,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+210895,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,
+210895,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+222705,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,Direct3D,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+182643,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+175288,Nintendo Switch+,Commercial,,,,,Download,
+175288,PlayStation 4+,Commercial,,,,,Download,
+175288,Xbox Series+,Commercial,,,,,Download,Xbox One/Series Wireless Controller
+224313,Windows+,Commercial,Windows 10,x64 (64-bit),16 GB,,Download,Xbox One/Series Wireless Controller
+230777,Linux+,Commercial,,,2 GB,,Download,
+230777,Macintosh+,Commercial,macOS 10.12 (Sierra),,2 GB,,Download,
+230777,Windows+,Commercial,Windows 10,x64 (64-bit),2 GB,,Download,
+217251,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+174766,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+141682,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,Xbox One/Series Wireless Controller
+162530,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+162530,PlayStation 4+,Commercial,,,,,Download,DualShock 4
+162530,PlayStation 5+,Commercial,,,,,Download,
+162530,Stadia+,Commercial,,,,,,
+162530,Windows Apps+,Commercial,Windows 10,x86 (32-bit); x64 (64-bit),2 GB,,,
+162530,Xbox One+,Commercial,,,,,Download,
+162530,Xbox Series+,Commercial,,,,,Download,
+188012,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+188012,PlayStation 4+,Commercial,,,,,Blu-Ray Disc; Download,DualShock 4
+188012,PlayStation 5+,Commercial,,,,,Download; UHD Blu-ray Disc,DualSense Controller
+188012,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+236737,Windows+,Commercial,Windows 10,x64 (64-bit),12 GB,,Download,Xbox One/Series Wireless Controller
+228860,Windows+,Commercial,Windows 10,,4 GB,,Download,
+168138,Windows Apps+,Commercial,,,,,,
+186986,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,Download,Xbox 360 Controller; Xbox One/Series Wireless Controller
+208859,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,
+166086,Nintendo Switch+,Commercial,,,,,Download,
+239221,Nintendo Switch+,Commercial,,,,,Download,
+179781,Windows+,Commercial,Windows 7,x64 (64-bit),8 GB,,Download,
+152464,Nintendo Switch+,Commercial,,,,,Download; Game Card,
+233621,Linux+,Commercial,,,,,Download; USB Flash Drive,
+233621,Macintosh+,Commercial,,,,,Download; USB Flash Drive,
+233621,Windows+,Commercial,Windows 7 SP1,x64 (64-bit),4 GB,,Download; USB Flash Drive,Xbox One/Series Wireless Controller
+214806,Windows+,Commercial,Windows 10,x64 (64-bit),8 GB,,Download,DualShock 4; DualSense Controller; Xbox One/Series Wireless Controller
+206848,Windows+,Commercial,Windows 10,x64 (64-bit),4 GB,,,Xbox One/Series Wireless Controller
+189361,Windows+,Commercial,Windows 7,,4 GB,,Download,
