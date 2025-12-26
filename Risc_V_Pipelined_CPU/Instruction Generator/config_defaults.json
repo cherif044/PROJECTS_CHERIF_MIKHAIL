@@ -1,0 +1,76 @@
+{
+  "weights": {
+    "alu_logic": 0.38,
+    "load": 0.22,
+    "store": 0.12,
+    "branch": 0.16,
+    "jump": 0.02,
+    "upper": 0.03,
+    "system": 0.01,
+    "pseudo_nop": 0.01,
+    "fence": 0.005,
+    "ecall_ebreak": 0.005
+  },
+  "register_policy": {
+    "uniform": true,
+    "sp_usage_fraction_in_memory_ops": 0.55,
+    "ra_usage_fraction_in_jal": 0.80,
+    "x0_source_fraction_in_alu_immediates": 0.25
+  },
+  "immediates": {
+    "arith": {
+      "small": 0.25,
+      "boundary": 0.05,
+      "medium": 0.20,
+      "random_full": 0.40,
+      "special_pattern": 0.10,
+      "boundary_values": [2047,-2048],
+      "special_values": [255,240,2048,2047]
+    },
+    "shift": {"distribution": "uniform", "min": 0, "max": 31},
+    "upper20": {"symbolic_fraction": 0.60, "random_fraction": 0.40, "symbolic_bases": [4096,65536,1048576]},
+    "memory_offset": {
+      "near_zero": 0.15,
+      "small_range": 0.60,
+      "mid_range": 0.20,
+      "far_range": 0.05,
+      "small_range_max": 64,
+      "mid_range_max": 256,
+      "far_range_max": 1024,
+      "alignment_word": true
+    }
+  },
+  "branch_offsets": {
+    "near": 0.40,
+    "mid": 0.45,
+    "far": 0.15,
+    "near_max_bytes": 8,
+    "mid_max_bytes": 64,
+    "far_max_bytes": 256,
+    "allow_backward": true
+  },
+  "loops": {
+    "enabled": true,
+    "max_dynamic_multiplier": 3.0,
+    "max_backward_depth": 2
+  },
+  "hazards": {
+    "raw_dependency_prob": 0.40,
+    "waw_repeat_prob": 0.15,
+    "load_use_prob": 0.30
+  },
+  "system_freq": {
+    "max_fence_per_test": 1,
+    "max_system_calls_per_test": 1
+  },
+  "seed_policy": {
+    "external_seed_allowed": false,
+    "method": "time_pid_mix",
+    "store_in_manifest": true
+  },
+  "manifest": {
+    "include_weights": true,
+    "include_seed": true,
+    "include_generation_version": true
+  }
+}

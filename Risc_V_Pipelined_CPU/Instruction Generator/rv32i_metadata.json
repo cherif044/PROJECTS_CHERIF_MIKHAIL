@@ -1,0 +1,52 @@
+[
+  {"mnemonic": "ADD", "format": "R", "opcode": "0x33", "funct3": "0x0", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "alu"},
+  {"mnemonic": "SUB", "format": "R", "opcode": "0x33", "funct3": "0x0", "funct7": "0x20", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "alu"},
+  {"mnemonic": "SLL", "format": "R", "opcode": "0x33", "funct3": "0x1", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "shift"},
+  {"mnemonic": "SLT", "format": "R", "opcode": "0x33", "funct3": "0x2", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "compare"},
+  {"mnemonic": "SLTU", "format": "R", "opcode": "0x33", "funct3": "0x3", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "compare"},
+  {"mnemonic": "XOR", "format": "R", "opcode": "0x33", "funct3": "0x4", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "alu"},
+  {"mnemonic": "SRL", "format": "R", "opcode": "0x33", "funct3": "0x5", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "shift"},
+  {"mnemonic": "SRA", "format": "R", "opcode": "0x33", "funct3": "0x5", "funct7": "0x20", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "shift"},
+  {"mnemonic": "OR", "format": "R", "opcode": "0x33", "funct3": "0x6", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "alu"},
+  {"mnemonic": "AND", "format": "R", "opcode": "0x33", "funct3": "0x7", "funct7": "0x00", "immed_kind": "none", "operand_pattern": ["rd","rs1","rs2"], "category": "alu"},
+
+  {"mnemonic": "ADDI", "format": "I", "opcode": "0x13", "funct3": "0x0", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "alu"},
+  {"mnemonic": "SLTI", "format": "I", "opcode": "0x13", "funct3": "0x2", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "compare"},
+  {"mnemonic": "SLTIU", "format": "I", "opcode": "0x13", "funct3": "0x3", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "compare"},
+  {"mnemonic": "XORI", "format": "I", "opcode": "0x13", "funct3": "0x4", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "alu"},
+  {"mnemonic": "ORI", "format": "I", "opcode": "0x13", "funct3": "0x6", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "alu"},
+  {"mnemonic": "ANDI", "format": "I", "opcode": "0x13", "funct3": "0x7", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "alu"},
+  {"mnemonic": "SLLI", "format": "I", "opcode": "0x13", "funct3": "0x1", "funct7": "0x00", "immed_kind": "shamt5", "operand_pattern": ["rd","rs1","shamt"], "category": "shift"},
+  {"mnemonic": "SRLI", "format": "I", "opcode": "0x13", "funct3": "0x5", "funct7": "0x00", "immed_kind": "shamt5", "operand_pattern": ["rd","rs1","shamt"], "category": "shift"},
+  {"mnemonic": "SRAI", "format": "I", "opcode": "0x13", "funct3": "0x5", "funct7": "0x20", "immed_kind": "shamt5", "operand_pattern": ["rd","rs1","shamt"], "category": "shift"},
+
+  {"mnemonic": "LB",  "format": "I", "opcode": "0x03", "funct3": "0x0", "funct7": null, "immed_kind": "mem12", "operand_pattern": ["rd","imm(rs1)"], "category": "load"},
+  {"mnemonic": "LH",  "format": "I", "opcode": "0x03", "funct3": "0x1", "funct7": null, "immed_kind": "mem12", "operand_pattern": ["rd","imm(rs1)"], "category": "load"},
+  {"mnemonic": "LW",  "format": "I", "opcode": "0x03", "funct3": "0x2", "funct7": null, "immed_kind": "mem12", "operand_pattern": ["rd","imm(rs1)"], "category": "load"},
+  {"mnemonic": "LBU", "format": "I", "opcode": "0x03", "funct3": "0x4", "funct7": null, "immed_kind": "mem12", "operand_pattern": ["rd","imm(rs1)"], "category": "load"},
+  {"mnemonic": "LHU", "format": "I", "opcode": "0x03", "funct3": "0x5", "funct7": null, "immed_kind": "mem12", "operand_pattern": ["rd","imm(rs1)"], "category": "load"},
+
+  {"mnemonic": "SB", "format": "S", "opcode": "0x23", "funct3": "0x0", "funct7": null, "immed_kind": "mem12_split", "operand_pattern": ["rs2","imm(rs1)"], "category": "store"},
+  {"mnemonic": "SH", "format": "S", "opcode": "0x23", "funct3": "0x1", "funct7": null, "immed_kind": "mem12_split", "operand_pattern": ["rs2","imm(rs1)"], "category": "store"},
+  {"mnemonic": "SW", "format": "S", "opcode": "0x23", "funct3": "0x2", "funct7": null, "immed_kind": "mem12_split", "operand_pattern": ["rs2","imm(rs1)"], "category": "store"},
+
+  {"mnemonic": "BEQ",  "format": "B", "opcode": "0x63", "funct3": "0x0", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+  {"mnemonic": "BNE",  "format": "B", "opcode": "0x63", "funct3": "0x1", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+  {"mnemonic": "BLT",  "format": "B", "opcode": "0x63", "funct3": "0x4", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+  {"mnemonic": "BGE",  "format": "B", "opcode": "0x63", "funct3": "0x5", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+  {"mnemonic": "BLTU", "format": "B", "opcode": "0x63", "funct3": "0x6", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+  {"mnemonic": "BGEU", "format": "B", "opcode": "0x63", "funct3": "0x7", "funct7": null, "immed_kind": "branch", "operand_pattern": ["rs1","rs2","label"], "category": "branch"},
+
+  {"mnemonic": "JAL", "format": "J", "opcode": "0x6F", "funct3": null, "funct7": null, "immed_kind": "jump", "operand_pattern": ["rd","label"], "category": "jump"},
+  {"mnemonic": "JALR", "format": "I", "opcode": "0x67", "funct3": "0x0", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "jump"},
+
+  {"mnemonic": "LUI", "format": "U", "opcode": "0x37", "funct3": null, "funct7": null, "immed_kind": "upper20", "operand_pattern": ["rd","imm20"], "category": "upper"},
+  {"mnemonic": "AUIPC", "format": "U", "opcode": "0x17", "funct3": null, "funct7": null, "immed_kind": "upper20", "operand_pattern": ["rd","imm20"], "category": "upper"},
+
+  {"mnemonic": "FENCE", "format": "I", "opcode": "0x0F", "funct3": "0x0", "funct7": null, "immed_kind": "fence", "operand_pattern": ["pred_succ"], "category": "system"},
+  {"mnemonic": "FENCE.I", "format": "I", "opcode": "0x0F", "funct3": "0x1", "funct7": null, "immed_kind": "fencei", "operand_pattern": [], "category": "system"},
+  {"mnemonic": "ECALL", "format": "I", "opcode": "0x73", "funct3": "0x0", "funct7": null, "immed_kind": "sys", "operand_pattern": [], "category": "system"},
+  {"mnemonic": "EBREAK", "format": "I", "opcode": "0x73", "funct3": "0x0", "funct7": null, "immed_kind": "sys", "operand_pattern": [], "category": "system"},
+
+  {"mnemonic": "NOP", "format": "I", "opcode": "0x13", "funct3": "0x0", "funct7": null, "immed_kind": "imm12", "operand_pattern": ["rd","rs1","imm"], "category": "pseudo", "pseudo": true, "canonical": "ADDI x0, x0, 0"}
+]
